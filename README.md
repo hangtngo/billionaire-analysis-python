@@ -4,5 +4,7 @@ Hey folks! I'm Hang, an enthusiastic MS Business Analytics Candidate at the Univ
 
 **Project name**: Billionaire Analysis
 
+**Project Description**: A comprehensive analysis on Kaggle's billionaire dataset using Python (Numpy, Pandas, Seaborn, Scipy Stats), gathering data statistics, producing visualizations and statistical analysis (t-test, ANOVA, regression).
+
 Data Source: Data source: Billionaires Statistics Dataset (2023)
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset.
