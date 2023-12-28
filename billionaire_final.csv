@@ -1,0 +1,2550 @@
+age,country,industry,gender,networth
+74,France,Fashion & Retail,male,211000
+51,United States,Automotive,male,180000
+59,United States,Technology,male,114000
+78,United States,Technology,male,107000
+92,United States,Finance & Investments,male,106000
+67,United States,Technology,male,104000
+81,United States,Media & Entertainment,male,94500
+83,Mexico,Telecom,male,93000
+65,India,Diversified,male,83400
+67,United States,Technology,male,80700
+69,France,Fashion & Retail,female,80500
+50,United States,Technology,male,79200
+87,Spain,Fashion & Retail,male,77300
+49,United States,Technology,male,76000
+68,China,Food & Beverage,male,68000
+38,United States,Technology,male,64400
+87,United States,Diversified,male,59000
+60,United States,Diversified,female,59000
+74,United States,Fashion & Retail,male,58800
+78,United States,Fashion & Retail,male,57600
+73,United States,Fashion & Retail,female,56700
+65,Canada,Media & Entertainment,male,54400
+58,United States,Technology,male,50100
+60,India,Diversified,male,47200
+85,United States,Fashion & Retail,male,45100
+39,China,Technology,male,45000
+83,Germany,Fashion & Retail,male,42900
+86,France,Fashion & Retail,male,40100
+85,Switzerland,Logistics,male,39100
+58,Belgium,Food & Beverage,male,38900
+83,United States,Food & Beverage,female,38300
+87,United States,Food & Beverage,male,38300
+94,Hong Kong,Diversified,male,38000
+51,China,Technology,male,35300
+77,United States,Gambling & Casinos,female,35000
+54,United States,Finance & Investments,male,35000
+30,Austria,Food & Beverage,male,34700
+54,China,Automotive,male,33400
+74,Japan,Fashion & Retail,male,32600
+65,United Kingdom,Diversified,male,32100
+74,United States,Fashion & Retail,male,31600
+72,United States,Fashion & Retail,male,31600
+82,Switzerland,Logistics,male,31200
+78,Switzerland,Logistics,female,31200
+43,China,Technology,male,30200
+87,Germany,Manufacturing,male,29700
+95,Hong Kong,Real Estate,male,29500
+64,United States,Finance & Investments,male,28500
+84,United States,Finance & Investments,male,28100
+76,United States,Finance & Investments,male,27800
+60,Germany,Automotive,female,27400
+69,Australia,Metals & Mining,female,27000
+51,China,Technology,male,26700
+69,Mexico,Metals & Mining,male,26600
+77,India,Technology,male,25600
+74,Indonesia,Energy,male,25500
+78,United States,Finance & Investments,male,25300
+51,United Arab Emirates,Metals & Mining,male,25200
+56,Germany,Automotive,male,24600
+52,United States,Technology,female,24400
+82,Indonesia,Finance & Investments,male,24200
+62,Russia,Metals & Mining,male,23700
+58,China,Technology,male,23500
+80,China,Manufacturing,male,23400
+80,Chile,Metals & Mining,female,23100
+83,Indonesia,Manufacturing,male,23100
+70,United Kingdom,Manufacturing,male,22900
+81,India,Healthcare,male,22600
+65,Japan,Telecom,male,22400
+66,Russia,Metals & Mining,male,22100
+52,France,Food & Beverage,male,22000
+61,United States,Finance & Investments,female,21600
+67,Russia,Energy,male,21600
+36,United States,Fashion & Retail,male,21200
+52,China,Service,male,21200
+60,United States,Technology,male,21100
+90,United States,Fashion & Retail,male,21000
+77,Japan,Manufacturing,male,21000
+57,Russia,Metals & Mining,male,20900
+72,Russia,Energy,male,20500
+84,United States,Healthcare,male,20200
+61,Australia,Metals & Mining,male,19600
+73,United States,Finance & Investments,male,19100
+59,China,Automotive,male,19000
+55,China,Metals & Mining,male,19000
+72,Monaco,Diversified,male,18900
+57,China,Food & Beverage,male,18900
+57,China,Automotive,male,18700
+77,United States,Energy,male,18500
+65,United States,Finance & Investments,male,18500
+70,Russia,Energy,male,18500
+61,United States,Finance & Investments,male,18000
+72,United Kingdom,Metals & Mining,male,17700
+66,United States,Finance & Investments,male,17500
+87,United States,Finance & Investments,male,17500
+73,India,Metals & Mining,female,17500
+90,United States,Real Estate,male,17400
+83,United States,Fashion & Retail,male,17400
+92,United States,Media & Entertainment,male,17100
+70,Switzerland,Finance & Investments,female,16700
+72,Germany,Fashion & Retail,male,16500
+55,Czech Republic,Finance & Investments,female,16500
+72,China,Healthcare,male,16300
+75,Sweden,Fashion & Retail,male,16200
+67,United States,Technology,male,16200
+55,Switzerland,Finance & Investments,male,16000
+67,China,Food & Beverage,male,15900
+83,Switzerland,Food & Beverage,male,15800
+76,Hong Kong,Real Estate,male,15800
+67,India,Healthcare,male,15600
+45,United States,Technology,male,15500
+68,India,Fashion & Retail,male,15300
+56,China,Automotive,male,15200
+83,Thailand,Diversified,male,14900
+81,United States,Fashion & Retail,male,14900
+78,Thailand,Food & Beverage,male,14800
+68,United Kingdom,Food & Beverage,female,14700
+60,China,Healthcare,male,14600
+59,China,Automotive,male,14500
+69,Uzbekistan,Metals & Mining,male,14400
+95,Singapore,Manufacturing,male,14300
+55,India,Diversified,male,14200
+65,Nigeria,Manufacturing,male,14200
+93,Hong Kong,Real Estate,female,14100
+67,United Kingdom,Diversified,male,14000
+57,China,Healthcare,male,13900
+94,Hong Kong,Gambling & Casinos,male,13900
+78,United Kingdom,Logistics,male,13700
+76,United States,Construction & Engineering,female,13700
+47,United States,Technology,male,13700
+80,United States,Sports,male,13300
+80,United States,Energy,male,13300
+71,Hong Kong,Real Estate,male,13300
+60,China,Automotive,male,13200
+90,Australia,Real Estate,male,13100
+64,India,Finance & Investments,male,12900
+75,United States,Sports,male,12900
+58,United Kingdom,Energy,male,12600
+57,Thailand,Energy,male,12300
+50,China,Metals & Mining,male,12200
+69,China,Healthcare,male,12200
+72,United States,Automotive,male,12100
+59,United States,Technology,female,12000
+99,Hong Kong,Diversified,male,11800
+82,United States,Real Estate,male,11600
+38,United Arab Emirates,Technology,male,11500
+73,Germany,Healthcare,male,11500
+73,Germany,Healthcare,male,11500
+59,China,Food & Beverage,male,11400
+50,United States,Fashion & Retail,male,11400
+74,United States,Finance & Investments,male,11300
+69,Israel,Manufacturing,male,11300
+62,Australia,Manufacturing,male,11300
+57,Switzerland,Finance & Investments,male,11300
+88,Italy,Fashion & Retail,male,11100
+72,South Africa,Fashion & Retail,male,11100
+58,Hong Kong,Finance & Investments,male,11000
+51,China,Technology,male,11000
+83,United States,Finance & Investments,male,10900
+85,United States,Fashion & Retail,female,10900
+67,Mexico,Fashion & Retail,male,10900
+93,United States,Media & Entertainment,male,10700
+81,United States,Sports,male,10600
+73,Brazil,Food & Beverage,male,10600
+57,Russia,Finance & Investments,male,10500
+39,China,Fashion & Retail,male,10500
+45,United Arab Emirates,Finance & Investments,male,10500
+70,United States,Finance & Investments,male,10300
+43,Australia,Technology,male,10200
+60,United States,Healthcare,male,10200
+82,United States,Technology,male,10200
+64,United States,Energy,male,10200
+74,Russia,Manufacturing,male,10200
+41,Singapore,Technology,male,10200
+58,Germany,Automotive,male,10200
+74,United States,Fashion & Retail,female,10200
+43,Australia,Technology,male,10100
+81,Malaysia,Diversified,male,10100
+59,China,Real Estate,female,10100
+85,United States,Energy,male,10000
+74,China,Service,male,9900
+74,United Arab Emirates,Diversified,male,9800
+80,Switzerland,Fashion & Retail,male,9800
+51,France,Logistics,male,9800
+53,France,Logistics,male,9800
+55,France,Logistics,female,9800
+75,Sweden,Finance & Investments,male,9800
+63,Russia,Manufacturing,male,9700
+59,South Korea,Finance & Investments,male,9700
+53,China,Technology,male,9700
+76,Germany,Manufacturing,male,9700
+64,China,Healthcare,male,9700
+70,United States,Technology,male,9600
+70,China,Energy,male,9600
+67,China,Manufacturing,male,9600
+58,United States,Food & Beverage,female,9600
+62,United States,Food & Beverage,female,9600
+64,United States,Food & Beverage,female,9600
+66,United States,Food & Beverage,female,9600
+71,France,Finance & Investments,male,9500
+94,Canada,Diversified,male,9500
+57,Switzerland,Healthcare,male,9400
+44,China,Technology,male,9400
+41,United States,Technology,male,9300
+75,United Kingdom,Manufacturing,male,9300
+56,Russia,Diversified,male,9200
+79,Sweden,Diversified,female,9200
+47,Czech Republic,Energy,male,9200
+82,United States,Media & Entertainment,male,9200
+77,India,Technology,male,9200
+85,United States,Finance & Investments,male,9200
+63,United States,Fashion & Retail,male,9200
+72,United States,Technology,male,9000
+66,Switzerland,Metals & Mining,male,9000
+55,Germany,Real Estate,male,9000
+73,Canada,Food & Beverage,male,9000
+57,China,Manufacturing,male,9000
+68,United Kingdom,Food & Beverage,male,8900
+63,United Kingdom,Food & Beverage,male,8900
+70,United Kingdom,Food & Beverage,female,8900
+47,Russia,Fashion & Retail,female,8800
+71,United States,Technology,male,8800
+49,China,Technology,male,8800
+38,United States,Technology,male,8800
+55,United States,Technology,male,8800
+64,China,Energy,male,8800
+72,United Kingdom,Energy,female,8800
+52,China,Manufacturing,male,8700
+79,Germany,Fashion & Retail,male,8700
+71,United States,Finance & Investments,male,8600
+67,New Zealand,Finance & Investments,male,8600
+68,India,Food & Beverage,male,8600
+79,Germany,Technology,male,8600
+75,Switzerland,Food & Beverage,male,8600
+73,Philippines,Real Estate,male,8600
+67,United States,Technology,male,8600
+47,United States,Finance & Investments,male,8500
+74,United States,Fashion & Retail,female,8500
+55,China,Manufacturing,male,8500
+75,United States,Media & Entertainment,male,8400
+77,South Africa,Metals & Mining,male,8400
+72,Australia,Media & Entertainment,female,8400
+77,China,Metals & Mining,female,8400
+75,United States,Fashion & Retail,male,8300
+81,Monaco,Fashion & Retail,male,8300
+75,Hong Kong,Real Estate,male,8200
+61,Russia,Energy,male,8200
+62,Nigeria,Diversified,male,8200
+79,United States,Finance & Investments,male,8200
+91,India,Real Estate,male,8200
+68,China,Real Estate,male,8200
+41,China,Real Estate,female,8200
+69,France,Diversified,male,8100
+66,France,Diversified,male,8100
+65,United States,Food & Beverage,male,8100
+58,France,Diversified,female,8100
+54,Switzerland,Gambling & Casinos,male,8100
+39,United States,Technology,male,8000
+66,Russia,Energy,male,8000
+93,United States,Fashion & Retail,male,8000
+85,United States,Finance & Investments,male,8000
+60,United States,Finance & Investments,male,8000
+58,Czech Republic,Metals & Mining,male,8000
+76,Monaco,Finance & Investments,male,8000
+52,United States,Finance & Investments,male,7900
+52,China,Fashion & Retail,male,7900
+71,United States,Fashion & Retail,female,7900
+54,South Korea,Technology,male,7900
+54,United States,Finance & Investments,male,7900
+72,United States,Finance & Investments,male,7900
+57,Russia,Metals & Mining,male,7900
+50,Austria,Diversified,male,7900
+73,United States,Telecom,male,7800
+66,China,Manufacturing,male,7800
+94,Taiwan,Manufacturing,male,7800
+53,China,Technology,male,7800
+58,China,Manufacturing,male,7800
+75,Taiwan,Fashion & Retail,male,7800
+55,France,Food & Beverage,male,7700
+42,France,Food & Beverage,female,7700
+80,United States,Media & Entertainment,male,7700
+54,China,Technology,male,7700
+71,China,Service,male,7700
+68,United States,Technology,male,7700
+68,United States,Healthcare,male,7700
+61,Norway,Real Estate,male,7700
+54,China,Energy,male,7600
+89,India,Healthcare,male,7600
+67,United Kingdom,Manufacturing,male,7600
+41,United States,Technology,male,7600
+64,Singapore,Real Estate,male,7600
+66,United Kingdom,Manufacturing,male,7600
+85,United States,Real Estate,male,7600
+59,Hong Kong,Technology,male,7600
+62,China,Healthcare,female,7600
+80,United States,Sports,male,7500
+85,United States,Fashion & Retail,male,7500
+59,China,Fashion & Retail,male,7500
+68,United States,Finance & Investments,male,7500
+79,United States,Finance & Investments,male,7500
+52,Singapore,Food & Beverage,male,7500
+80,United States,Technology,male,7400
+70,United Kingdom,Manufacturing,male,7400
+59,China,Fashion & Retail,male,7400
+71,Singapore,Real Estate,male,7400
+72,United States,Manufacturing,male,7400
+62,Egypt,Construction & Engineering,male,7400
+81,United States,Food & Beverage,male,7400
+91,India,Manufacturing,male,7300
+59,Russia,Metals & Mining,male,7300
+50,Denmark,Fashion & Retail,male,7300
+63,Philippines,Logistics,male,7300
+55,China,Technology,female,7300
+65,United States,Finance & Investments,male,7200
+72,Taiwan,Technology,male,7200
+68,United States,Real Estate,male,7200
+79,United States,Finance & Investments,male,7200
+78,United States,Energy,male,7200
+41,United Arab Emirates,Finance & Investments,male,7200
+61,Japan,Fashion & Retail,male,7200
+77,China,Food & Beverage,male,7200
+79,United States,Technology,female,7100
+76,Austria,Gambling & Casinos,male,7100
+61,United States,Service,female,7100
+66,China,Manufacturing,male,7100
+72,Switzerland,Healthcare,male,7100
+94,Singapore,Finance & Investments,male,7100
+71,China,Manufacturing,male,7100
+58,United States,Technology,male,7000
+37,United Kingdom,Media & Entertainment,male,7000
+41,United Kingdom,Media & Entertainment,male,7000
+77,United States,Technology,male,7000
+80,India,Manufacturing,male,7000
+83,United States,Fashion & Retail,male,7000
+74,Hong Kong,Real Estate,male,7000
+55,India,Diversified,female,7000
+58,India,Diversified,male,7000
+69,United States,Food & Beverage,male,7000
+67,United States,Food & Beverage,male,7000
+71,United States,Food & Beverage,male,7000
+62,Mexico,Diversified,male,6900
+87,United States,Diversified,female,6900
+89,United States,Food & Beverage,female,6900
+55,United States,Finance & Investments,male,6900
+58,China,Technology,male,6900
+80,United States,Real Estate,male,6900
+54,Spain,Fashion & Retail,female,6900
+68,United States,Healthcare,female,6900
+59,United States,Energy,female,6800
+86,Italy,Diversified,male,6800
+55,United Kingdom,Gambling & Casinos,female,6800
+40,United States,Energy,male,6800
+53,United States,Energy,female,6800
+58,United States,Finance & Investments,male,6800
+61,United States,Finance & Investments,male,6800
+94,United States,Technology,male,6800
+53,United States,Finance & Investments,male,6800
+61,United States,Finance & Investments,male,6800
+65,Russia,Diversified,male,6800
+58,China,Technology,male,6800
+61,United States,Energy,female,6800
+72,United States,Finance & Investments,male,6700
+56,United Kingdom,Finance & Investments,male,6700
+75,Denmark,Manufacturing,male,6700
+47,Denmark,Manufacturing,female,6700
+44,Denmark,Manufacturing,male,6700
+80,Italy,Healthcare,female,6700
+55,China,Automotive,male,6700
+60,China,Manufacturing,male,6700
+54,Switzerland,Manufacturing,female,6700
+55,France,Telecom,male,6700
+72,United States,Energy,male,6700
+84,United States,Real Estate,male,6700
+83,United States,Real Estate,male,6700
+92,United States,Finance & Investments,male,6700
+71,United States,Technology,male,6700
+39,Denmark,Manufacturing,female,6700
+81,United States,Technology,male,6700
+65,China,Food & Beverage,male,6700
+47,Switzerland,Manufacturing,female,6600
+68,United States,Food & Beverage,male,6600
+70,United States,Food & Beverage,male,6600
+67,United States,Food & Beverage,female,6600
+78,United States,Finance & Investments,male,6600
+63,United States,Technology,male,6600
+47,Germany,Finance & Investments,female,6600
+80,United States,Finance & Investments,male,6500
+58,United States,Technology,female,6500
+91,Eswatini (Swaziland),Fashion & Retail,male,6500
+93,United States,Real Estate,female,6500
+84,United Kingdom,Real Estate,male,6500
+81,Monaco,Diversified,male,6500
+51,Switzerland,Real Estate,male,6500
+71,Sweden,Finance & Investments,male,6400
+62,United States,Sports,male,6400
+69,United States,Finance & Investments,male,6400
+59,China,Healthcare,female,6400
+60,France,Energy,male,6400
+56,Monaco,Manufacturing,male,6400
+90,Colombia,Finance & Investments,male,6400
+88,United States,Logistics,male,6400
+77,United Kingdom,Construction & Engineering,male,6300
+58,China,Energy,male,6300
+66,United Kingdom,Finance & Investments,male,6300
+85,France,Healthcare,male,6300
+59,China,Energy,male,6300
+96,Israel,Manufacturing,male,6300
+59,Mexico,Food & Beverage,female,6200
+85,Sweden,Diversified,male,6200
+89,Netherlands,Service,male,6200
+59,China,Food & Beverage,male,6200
+59,China,Manufacturing,male,6200
+51,China,Manufacturing,male,6200
+60,Poland,Finance & Investments,male,6200
+69,Nigeria,Diversified,male,6100
+58,United States,Finance & Investments,male,6100
+79,Germany,Fashion & Retail,male,6100
+72,Germany,Fashion & Retail,male,6100
+81,Hong Kong,Energy,male,6100
+53,Hong Kong,Technology,female,6100
+64,Russia,Metals & Mining,male,6000
+46,Austria,Real Estate,male,6000
+85,United States,Real Estate,male,6000
+74,Canada,Fashion & Retail,male,6000
+63,United States,Technology,male,6000
+65,India,Fashion & Retail,male,6000
+88,Thailand,Diversified,male,6000
+86,Bahamas,Finance & Investments,male,6000
+92,Israel,Finance & Investments,male,6000
+76,United States,Finance & Investments,male,6000
+71,United States,Technology,male,6000
+85,United States,Fashion & Retail,male,6000
+60,China,Real Estate,male,5900
+93,Thailand,Diversified,male,5900
+61,United States,Finance & Investments,male,5900
+62,United States,Finance & Investments,male,5900
+66,China,Food & Beverage,male,5900
+58,United States,Finance & Investments,male,5800
+75,Denmark,Healthcare,male,5800
+70,United States,Healthcare,male,5800
+56,Ukraine,Metals & Mining,male,5700
+88,United States,Healthcare,male,5700
+76,Cayman Islands,Media & Entertainment,male,5700
+93,Canada,Energy,male,5700
+71,Sweden,Real Estate,male,5700
+77,Switzerland,Construction & Engineering,male,5700
+83,Hong Kong,Logistics,male,5700
+51,United States,Finance & Investments,male,5700
+59,United States,Finance & Investments,male,5700
+56,United States,Finance & Investments,male,5700
+41,Greece,Logistics,female,5600
+79,United States,Energy,male,5600
+52,China,Logistics,male,5600
+81,India,Automotive,male,5600
+87,United States,Finance & Investments,male,5600
+56,China,Healthcare,male,5600
+65,United States,Finance & Investments,female,5600
+69,United States,Service,male,5600
+51,Israel,Gambling & Casinos,male,5600
+65,South Korea,Healthcare,male,5600
+59,China,Automotive,male,5600
+73,United States,Service,male,5500
+65,United States,Media & Entertainment,male,5500
+66,Taiwan,Technology,male,5500
+32,United States,Technology,male,5500
+34,United States,Technology,male,5500
+93,United States,Manufacturing,male,5500
+77,Italy,Automotive,male,5500
+58,United States,Automotive,male,5500
+95,Canada,Diversified,male,5500
+68,China,Manufacturing,male,5500
+81,Germany,Healthcare,male,5500
+58,Germany,Finance & Investments,male,5500
+66,United States,Manufacturing,male,5500
+78,United States,Media & Entertainment,female,5500
+57,Hong Kong,Finance & Investments,male,5500
+78,United States,Finance & Investments,male,5500
+80,Italy,Healthcare,male,5500
+80,United States,Media & Entertainment,female,5500
+68,Australia,Technology,male,5500
+56,China,Diversified,female,5500
+77,Italy,Fashion & Retail,male,5400
+81,India,Manufacturing,male,5400
+43,United States,Finance & Investments,male,5400
+68,Singapore,Technology,male,5400
+58,China,Diversified,male,5400
+77,Switzerland,Manufacturing,male,5400
+73,Italy,Fashion & Retail,female,5400
+70,Germany,Fashion & Retail,male,5400
+58,Germany,Fashion & Retail,male,5400
+59,Austria,Fashion & Retail,male,5400
+71,Austria,Fashion & Retail,female,5400
+49,United States,Finance & Investments,male,5300
+64,United States,Real Estate,male,5300
+60,Turkey,Manufacturing,male,5300
+59,United States,Finance & Investments,female,5300
+65,United States,Finance & Investments,male,5300
+78,Indonesia,Diversified,male,5300
+72,United States,Finance & Investments,male,5300
+80,United States,Food & Beverage,female,5300
+86,United States,Food & Beverage,male,5300
+78,United States,Service,male,5300
+62,United States,Finance & Investments,male,5300
+81,United States,Manufacturing,male,5300
+77,Germany,Food & Beverage,male,5300
+67,United Arab Emirates,Fashion & Retail,male,5300
+56,United States,Finance & Investments,male,5200
+53,China,Food & Beverage,female,5200
+59,United States,Real Estate,male,5200
+71,China,Fashion & Retail,male,5200
+71,United Arab Emirates,Fashion & Retail,male,5200
+85,Malaysia,Telecom,male,5200
+73,Taiwan,Technology,male,5200
+82,United States,Food & Beverage,male,5200
+49,United Kingdom,Gambling & Casinos,male,5200
+74,United States,Technology,male,5200
+78,United States,Real Estate,male,5200
+81,United States,Real Estate,male,5200
+49,China,Manufacturing,male,5100
+59,India,Finance & Investments,female,5100
+90,United States,Finance & Investments,male,5100
+49,South Korea,Media & Entertainment,male,5100
+61,United States,Finance & Investments,male,5100
+64,Norway,Logistics,male,5100
+65,United States,Finance & Investments,male,5100
+71,Hong Kong,Healthcare,male,5100
+75,United States,Technology,male,5100
+88,United States,Healthcare,male,5100
+72,United States,Sports,female,5100
+79,United States,Finance & Investments,male,5000
+75,United States,Energy,male,5000
+55,Switzerland,Healthcare,female,5000
+43,United Kingdom,Finance & Investments,male,5000
+69,Switzerland,Technology,male,5000
+56,United States,Telecom,male,5000
+50,Russia,Healthcare,male,5000
+57,South Korea,Technology,male,5000
+50,United States,Fashion & Retail,female,5000
+83,France,Fashion & Retail,male,5000
+78,United States,Media & Entertainment,male,5000
+86,United States,Sports,female,5000
+57,Germany,Healthcare,male,5000
+64,Germany,Real Estate,female,5000
+59,Switzerland,Healthcare,male,5000
+64,Turkey,Food & Beverage,male,5000
+66,Canada,Fashion & Retail,male,5000
+79,United States,Manufacturing,male,4900
+72,India,Healthcare,male,4900
+81,United States,Technology,female,4900
+81,United States,Service,male,4900
+53,United States,Finance & Investments,male,4900
+67,Georgia,Finance & Investments,male,4900
+94,Indonesia,Metals & Mining,male,4900
+77,Switzerland,Healthcare,male,4900
+86,Canada,Food & Beverage,male,4900
+72,United States,Automotive,male,4900
+58,United States,Sports,male,4900
+60,Indonesia,Diversified,male,4900
+67,United States,Energy,male,4900
+50,China,Fashion & Retail,male,4900
+58,United Kingdom,Fashion & Retail,male,4800
+50,Poland,Fashion & Retail,male,4800
+79,Germany,Healthcare,male,4800
+69,United States,Fashion & Retail,male,4800
+64,United States,Manufacturing,male,4800
+67,United States,Manufacturing,male,4800
+66,United States,Manufacturing,female,4800
+68,United States,Technology,male,4800
+64,United States,Technology,female,4800
+63,United States,Manufacturing,female,4800
+70,India,Healthcare,male,4800
+78,Hong Kong,Manufacturing,male,4800
+62,China,Finance & Investments,male,4800
+88,Portugal,Diversified,female,4700
+76,United States,Sports,female,4700
+78,Taiwan,Technology,male,4700
+63,Turkey,Manufacturing,male,4700
+54,Brazil,Finance & Investments,male,4700
+68,Canada,Real Estate,male,4700
+77,South Korea,Technology,female,4700
+50,China,Manufacturing,male,4700
+68,United States,Media & Entertainment,male,4700
+76,China,Diversified,male,4700
+52,United States,Media & Entertainment,male,4700
+61,United States,Food & Beverage,male,4600
+64,United States,Media & Entertainment,male,4600
+96,United States,Media & Entertainment,male,4600
+46,United States,Technology,male,4600
+56,China,Energy,female,4600
+62,Kazakhstan,Metals & Mining,male,4600
+55,Taiwan,Finance & Investments,male,4600
+79,United States,Fashion & Retail,male,4600
+54,China,Manufacturing,male,4600
+45,Singapore,Media & Entertainment,male,4600
+56,Hong Kong,Telecom,male,4600
+69,United States,Fashion & Retail,male,4600
+71,United States,Fashion & Retail,male,4600
+65,United States,Fashion & Retail,male,4600
+79,Algeria,Food & Beverage,male,4600
+78,United States,Logistics,male,4600
+62,United States,Finance & Investments,male,4600
+34,Germany,Manufacturing,male,4600
+52,United States,Food & Beverage,male,4600
+66,China,Healthcare,male,4600
+55,Mexico,Food & Beverage,male,4500
+82,Germany,Technology,male,4500
+56,China,Technology,male,4500
+54,United States,Technology,male,4500
+83,Switzerland,Food & Beverage,male,4500
+76,India,Technology,male,4500
+71,Norway,Fashion & Retail,male,4500
+60,United States,Finance & Investments,male,4500
+70,United Arab Emirates,Real Estate,male,4500
+41,Brazil,Finance & Investments,male,4500
+59,China,Manufacturing,male,4500
+72,Taiwan,Diversified,male,4500
+65,China,Manufacturing,male,4500
+50,United States,Healthcare,male,4400
+89,United States,Technology,female,4400
+88,United States,Manufacturing,male,4400
+63,United States,Service,male,4400
+64,Spain,Construction & Engineering,male,4400
+81,Switzerland,Healthcare,male,4400
+58,Germany,Fashion & Retail,male,4400
+67,India,Real Estate,male,4400
+71,United States,Sports,male,4400
+66,United States,Finance & Investments,male,4400
+65,China,Manufacturing,male,4400
+54,Russia,Metals & Mining,male,4400
+59,Switzerland,Telecom,male,4300
+46,United States,Finance & Investments,male,4300
+63,Spain,Finance & Investments,male,4300
+49,United States,Finance & Investments,male,4300
+61,China,Healthcare,male,4300
+91,United States,Logistics,female,4300
+90,United States,Food & Beverage,female,4300
+61,Canada,Diversified,male,4300
+62,Russia,Metals & Mining,male,4300
+56,Kazakhstan,Finance & Investments,male,4300
+55,Kazakhstan,Finance & Investments,female,4300
+61,United States,Food & Beverage,female,4300
+75,United States,Real Estate,male,4300
+54,Vietnam,Diversified,male,4300
+64,United States,Healthcare,male,4300
+66,Taiwan,Finance & Investments,male,4300
+65,Taiwan,Finance & Investments,male,4300
+42,China,Technology,male,4300
+74,China,Manufacturing,male,4300
+58,China,Technology,male,4300
+83,United States,Finance & Investments,male,4300
+65,Israel,Service,female,4200
+68,Latvia,Finance & Investments,male,4200
+82,China,Real Estate,female,4200
+57,China,Real Estate,male,4200
+87,United States,Finance & Investments,male,4200
+82,United States,Finance & Investments,male,4200
+72,Indonesia,Energy,female,4200
+74,United States,Technology,male,4200
+82,France,Finance & Investments,male,4200
+53,United States,Technology,male,4200
+55,China,Technology,male,4200
+59,China,Finance & Investments,male,4200
+68,United States,Technology,male,4200
+60,United States,Service,female,4200
+73,United States,Automotive,male,4200
+58,United States,Technology,male,4200
+40,United States,Food & Beverage,female,4200
+73,Indonesia,Fashion & Retail,male,4200
+71,Indonesia,Diversified,male,4200
+55,United States,Finance & Investments,male,4200
+68,Czech Republic,Food & Beverage,male,4100
+83,France,Service,female,4100
+83,Germany,Media & Entertainment,male,4100
+87,United States,Food & Beverage,male,4100
+74,United States,Energy,male,4100
+70,United States,Technology,male,4100
+54,Italy,Food & Beverage,male,4100
+66,Finland,Manufacturing,male,4100
+55,China,Manufacturing,male,4100
+83,United States,Service,male,4100
+56,Russia,Fashion & Retail,male,4100
+73,United States,Food & Beverage,female,4100
+61,Brazil,Diversified,male,4100
+66,Brazil,Finance & Investments,male,4100
+76,United States,Sports,male,4100
+63,Switzerland,Manufacturing,male,4100
+88,United States,Real Estate,male,4100
+82,Australia,Diversified,male,4100
+60,United States,Technology,male,4100
+57,China,Healthcare,male,4100
+80,United States,Energy,male,4000
+48,United States,Technology,male,4000
+75,United States,Food & Beverage,female,4000
+56,China,Diversified,male,4000
+77,India,Manufacturing,female,4000
+73,United States,Sports,male,4000
+46,United States,Technology,male,4000
+61,Malaysia,Manufacturing,male,4000
+51,United States,Technology,male,4000
+65,China,Manufacturing,male,4000
+42,Canada,Technology,male,4000
+79,United States,Automotive,female,4000
+63,India,Telecom,male,4000
+67,India,Telecom,male,4000
+80,United States,Media & Entertainment,male,4000
+90,United States,Finance & Investments,male,4000
+68,Italy,Telecom,male,4000
+76,United States,Media & Entertainment,male,4000
+75,Poland,Healthcare,male,4000
+69,Switzerland,Energy,male,4000
+74,Mexico,Metals & Mining,male,4000
+73,China,Diversified,male,4000
+76,Germany,Manufacturing,male,3900
+72,United States,Food & Beverage,male,3900
+73,United States,Food & Beverage,male,3900
+91,Thailand,Finance & Investments,male,3900
+65,China,Finance & Investments,male,3900
+85,South Korea,Automotive,male,3900
+67,Cayman Islands,Finance & Investments,male,3900
+83,Italy,Fashion & Retail,male,3900
+83,Germany,Healthcare,male,3900
+94,United States,Energy,male,3900
+63,United States,Sports,male,3900
+69,United States,Food & Beverage,female,3900
+78,Brazil,Healthcare,male,3900
+76,Brazil,Diversified,male,3900
+63,Brazil,Diversified,male,3900
+60,United States,Gambling & Casinos,male,3900
+56,Germany,Fashion & Retail,male,3900
+50,Germany,Fashion & Retail,male,3900
+44,Germany,Fashion & Retail,female,3900
+62,China,Manufacturing,male,3900
+63,United States,Finance & Investments,male,3900
+70,Taiwan,Finance & Investments,male,3900
+79,India,Food & Beverage,male,3900
+73,China,Healthcare,male,3900
+57,China,Manufacturing,male,3900
+60,China,Healthcare,male,3900
+63,India,Service,male,3800
+80,Italy,Construction & Engineering,male,3800
+81,United States,Media & Entertainment,male,3800
+61,United States,Finance & Investments,male,3800
+63,United States,Finance & Investments,male,3800
+69,United States,Service,male,3800
+61,United States,Food & Beverage,male,3800
+87,United States,Media & Entertainment,female,3800
+41,China,Automotive,male,3800
+64,United States,Real Estate,male,3800
+82,India,Real Estate,male,3800
+71,United States,Energy,male,3800
+58,Japan,Telecom,male,3800
+54,China,Healthcare,male,3800
+73,Taiwan,Finance & Investments,male,3800
+77,United States,Service,male,3800
+77,United States,Manufacturing,female,3800
+77,United States,Manufacturing,male,3800
+51,United States,Finance & Investments,male,3700
+76,United States,Finance & Investments,male,3700
+71,United States,Real Estate,male,3700
+56,United Kingdom,Real Estate,male,3700
+59,China,Technology,male,3700
+66,United States,Logistics,male,3700
+56,China,Real Estate,male,3700
+50,China,Media & Entertainment,male,3700
+60,United States,Technology,male,3700
+77,United States,Real Estate,male,3700
+47,Kazakhstan,Finance & Investments,male,3700
+68,United Kingdom,Fashion & Retail,male,3700
+78,Japan,Manufacturing,male,3700
+62,United States,Finance & Investments,male,3700
+88,Chile,Fashion & Retail,male,3700
+62,United States,Service,male,3700
+75,United States,Technology,male,3700
+69,United States,Food & Beverage,male,3700
+82,United States,Fashion & Retail,male,3700
+74,Israel,Real Estate,male,3700
+56,China,Manufacturing,male,3700
+56,India,Diversified,male,3600
+53,India,Diversified,male,3600
+71,Italy,Finance & Investments,male,3600
+63,United States,Finance & Investments,male,3600
+47,Switzerland,Automotive,male,3600
+84,Bermuda,Food & Beverage,female,3600
+82,Canada,Real Estate,male,3600
+65,United Kingdom,Finance & Investments,male,3600
+60,Hong Kong,Gambling & Casinos,female,3600
+59,Switzerland,Finance & Investments,male,3600
+61,China,Automotive,male,3600
+80,United States,Finance & Investments,male,3600
+53,Kazakhstan,Finance & Investments,male,3600
+37,United States,Finance & Investments,male,3600
+83,Hong Kong,Real Estate,male,3600
+71,Hong Kong,Real Estate,male,3600
+67,United States,Finance & Investments,male,3600
+75,United Kingdom,Diversified,male,3600
+67,Japan,Fashion & Retail,male,3600
+84,Japan,Technology,male,3600
+37,Australia,Technology,male,3600
+35,Australia,Technology,female,3600
+58,United States,Finance & Investments,male,3600
+73,Spain,Fashion & Retail,male,3600
+82,United States,Real Estate,male,3600
+63,Switzerland,Fashion & Retail,male,3600
+80,Hong Kong,Logistics,male,3600
+60,China,Food & Beverage,male,3600
+61,China,Automotive,male,3600
+57,China,Technology,female,3600
+54,China,Manufacturing,male,3600
+33,United States,Fashion & Retail,male,3500
+65,Brazil,Healthcare,male,3500
+62,China,Finance & Investments,male,3500
+87,Italy,Manufacturing,male,3500
+76,United States,Finance & Investments,male,3500
+66,United States,Fashion & Retail,male,3500
+18,Italy,Fashion & Retail,male,3500
+27,Italy,Fashion & Retail,male,3500
+21,Italy,Fashion & Retail,male,3500
+64,Italy,Fashion & Retail,female,3500
+61,Luxembourg,Fashion & Retail,female,3500
+70,Germany,Finance & Investments,male,3500
+57,China,Fashion & Retail,female,3500
+58,United States,Technology,male,3500
+65,Russia,Energy,male,3500
+81,Hong Kong,Manufacturing,male,3500
+54,China,Food & Beverage,male,3500
+61,United States,Finance & Investments,male,3500
+60,Switzerland,Food & Beverage,female,3500
+90,Thailand,Healthcare,male,3500
+88,United States,Finance & Investments,male,3500
+76,Germany,Fashion & Retail,male,3500
+71,Russia,Construction & Engineering,male,3500
+61,Italy,Fashion & Retail,male,3500
+66,India,Automotive,male,3500
+45,United States,Finance & Investments,male,3500
+70,United States,Technology,male,3500
+75,Netherlands,Manufacturing,male,3500
+58,China,Diversified,male,3500
+54,United States,Technology,male,3500
+65,China,Logistics,male,3500
+65,Monaco,Fashion & Retail,female,3500
+56,Canada,Manufacturing,male,3500
+56,United States,Finance & Investments,male,3400
+55,Thailand,Energy,male,3400
+52,Russia,Metals & Mining,male,3400
+69,Philippines,Food & Beverage,male,3400
+50,India,Food & Beverage,male,3400
+52,Switzerland,Manufacturing,male,3400
+72,British Virgin Islands,Diversified,male,3400
+64,South Korea,Finance & Investments,male,3400
+63,Italy,Food & Beverage,female,3400
+84,Switzerland,Fashion & Retail,male,3400
+86,United States,Media & Entertainment,male,3400
+75,United States,Sports,male,3400
+66,United States,Finance & Investments,male,3400
+62,United States,Fashion & Retail,male,3400
+68,United States,Food & Beverage,male,3400
+58,Japan,Fashion & Retail,male,3400
+72,United States,Technology,male,3400
+81,United States,Finance & Investments,male,3400
+88,United States,Real Estate,male,3400
+65,India,Healthcare,female,3400
+59,Germany,Media & Entertainment,male,3400
+81,Switzerland,Food & Beverage,male,3400
+54,China,Healthcare,male,3400
+52,China,Technology,male,3400
+53,United States,Technology,male,3400
+75,United States,Media & Entertainment,male,3400
+75,France,Construction & Engineering,male,3300
+49,United States,Finance & Investments,male,3300
+81,United States,Manufacturing,male,3300
+56,China,Manufacturing,male,3300
+77,United States,Food & Beverage,male,3300
+68,Brazil,Food & Beverage,male,3300
+79,Switzerland,Automotive,male,3300
+55,China,Technology,male,3300
+88,Australia,Real Estate,male,3300
+72,Canada,Construction & Engineering,male,3300
+82,Singapore,Diversified,male,3300
+59,United States,Finance & Investments,male,3300
+78,Israel,Media & Entertainment,male,3300
+79,Japan,Fashion & Retail,male,3300
+77,Chile,Metals & Mining,male,3300
+77,United States,Finance & Investments,male,3300
+88,United States,Diversified,male,3300
+68,Egypt,Telecom,male,3300
+55,China,Finance & Investments,male,3300
+54,Israel,Technology,male,3300
+71,Canada,Finance & Investments,male,3300
+38,United Kingdom,Finance & Investments,male,3300
+48,United States,Finance & Investments,male,3300
+74,United States,Finance & Investments,male,3300
+59,United States,Manufacturing,male,3300
+53,China,Manufacturing,male,3300
+73,Singapore,Fashion & Retail,male,3300
+85,Italy,Fashion & Retail,female,3200
+87,Italy,Fashion & Retail,male,3200
+82,India,Manufacturing,male,3200
+70,United Kingdom,Finance & Investments,male,3200
+64,China,Manufacturing,male,3200
+69,Italy,Fashion & Retail,male,3200
+84,Mexico,Manufacturing,male,3200
+86,Italy,Healthcare,male,3200
+53,China,Automotive,male,3200
+70,United States,Media & Entertainment,male,3200
+56,United States,Technology,male,3200
+85,Australia,Logistics,male,3200
+55,Russia,Fashion & Retail,male,3200
+67,India,Technology,male,3200
+60,Brazil,Fashion & Retail,male,3200
+69,United Kingdom,Finance & Investments,male,3200
+60,China,Healthcare,male,3200
+71,United States,Finance & Investments,male,3200
+52,South Korea,Technology,female,3200
+55,China,Manufacturing,male,3200
+54,China,Manufacturing,male,3200
+59,India,Healthcare,male,3200
+68,India,Healthcare,male,3200
+61,Switzerland,Metals & Mining,male,3200
+72,United States,Real Estate,male,3200
+86,United States,Automotive,male,3200
+69,United Arab Emirates,Construction & Engineering,male,3200
+73,United States,Finance & Investments,male,3200
+70,United States,Food & Beverage,male,3200
+71,Germany,Service,male,3200
+84,United States,Energy,female,3200
+77,Italy,Manufacturing,female,3200
+60,China,Fashion & Retail,male,3200
+66,United States,Finance & Investments,male,3200
+66,United States,Healthcare,female,3200
+52,Russia,Logistics,male,3200
+48,Germany,Technology,male,3200
+53,Germany,Technology,male,3200
+67,United States,Finance & Investments,male,3200
+67,China,Food & Beverage,male,3200
+81,United States,Gambling & Casinos,male,3200
+65,United States,Gambling & Casinos,male,3200
+87,China,Manufacturing,male,3200
+76,China,Manufacturing,male,3100
+53,United Kingdom,Gambling & Casinos,male,3100
+37,United States,Finance & Investments,male,3100
+55,China,Food & Beverage,male,3100
+72,India,Manufacturing,male,3100
+75,India,Manufacturing,male,3100
+77,Switzerland,Finance & Investments,male,3100
+85,France,Manufacturing,male,3100
+50,Russia,Real Estate,male,3100
+46,United States,Media & Entertainment,male,3100
+62,United States,Technology,male,3100
+82,Switzerland,Service,male,3100
+73,Brazil,Fashion & Retail,male,3100
+73,Singapore,Manufacturing,male,3100
+52,United States,Fashion & Retail,female,3100
+90,United States,Food & Beverage,male,3100
+71,Hong Kong,Manufacturing,male,3100
+67,Russia,Manufacturing,male,3100
+59,Switzerland,Metals & Mining,male,3100
+46,India,Fashion & Retail,male,3100
+67,Monaco,Diversified,male,3100
+66,United States,Finance & Investments,male,3100
+71,Hong Kong,Real Estate,male,3100
+59,United States,Real Estate,female,3100
+51,Switzerland,Finance & Investments,male,3100
+63,United States,Finance & Investments,female,3100
+79,Indonesia,Diversified,male,3100
+67,Italy,Fashion & Retail,male,3100
+80,Germany,Media & Entertainment,female,3100
+74,Hong Kong,Real Estate,female,3100
+35,Kazakhstan,Finance & Investments,male,3100
+74,United States,Fashion & Retail,male,3100
+53,South Korea,Media & Entertainment,female,3100
+94,Turkey,Diversified,female,3000
+61,United States,Real Estate,male,3000
+85,United States,Energy,male,3000
+90,United States,Automotive,male,3000
+66,Switzerland,Technology,female,3000
+70,China,Healthcare,male,3000
+80,France,Food & Beverage,male,3000
+60,United States,Fashion & Retail,male,3000
+63,China,Real Estate,male,3000
+73,United States,Finance & Investments,male,3000
+95,Canada,Fashion & Retail,male,3000
+76,United States,Real Estate,male,3000
+57,United States,Finance & Investments,male,3000
+62,China,Metals & Mining,male,3000
+65,United States,Automotive,male,3000
+76,Singapore,Food & Beverage,male,3000
+75,Mexico,Diversified,male,3000
+66,Italy,Manufacturing,female,3000
+64,China,Real Estate,male,3000
+67,India,Manufacturing,male,3000
+71,Germany,Fashion & Retail,male,3000
+51,Switzerland,Healthcare,male,3000
+73,Taiwan,Fashion & Retail,male,3000
+67,China,Technology,male,3000
+71,India,Food & Beverage,male,3000
+59,France,Healthcare,male,3000
+68,Switzerland,Healthcare,female,3000
+67,United States,Finance & Investments,male,3000
+67,India,Healthcare,male,3000
+71,China,Fashion & Retail,male,3000
+86,United Kingdom,Fashion & Retail,male,3000
+64,United States,Food & Beverage,male,3000
+55,Sweden,Real Estate,male,3000
+54,China,Food & Beverage,male,3000
+63,Singapore,Manufacturing,male,3000
+60,China,Diversified,male,3000
+73,Singapore,Diversified,male,3000
+65,United Arab Emirates,Service,male,3000
+42,Singapore,Media & Entertainment,male,3000
+60,China,Healthcare,male,3000
+50,Hong Kong,Finance & Investments,male,3000
+65,China,Manufacturing,male,3000
+69,Spain,Fashion & Retail,male,2900
+82,Italy,Automotive,male,2900
+65,China,Healthcare,male,2900
+60,United States,Real Estate,male,2900
+70,United Kingdom,Telecom,male,2900
+79,United States,Technology,male,2900
+66,Canada,Fashion & Retail,male,2900
+78,United States,Fashion & Retail,male,2900
+92,United Kingdom,Sports,male,2900
+79,Israel,Technology,male,2900
+74,United States,Media & Entertainment,male,2900
+73,China,Manufacturing,male,2900
+75,Switzerland,Construction & Engineering,male,2900
+68,Germany,Healthcare,female,2900
+73,United States,Real Estate,male,2900
+56,Russia,Real Estate,male,2900
+38,Turkey,Diversified,female,2900
+49,South Korea,Technology,female,2900
+66,China,Healthcare,male,2900
+57,China,Healthcare,male,2900
+61,China,Manufacturing,male,2900
+55,China,Manufacturing,male,2900
+54,Sweden,Technology,male,2900
+87,Hong Kong,Energy,male,2900
+90,Germany,Fashion & Retail,male,2900
+89,Germany,Technology,male,2900
+50,Russia,Real Estate,male,2900
+52,India,Real Estate,male,2900
+87,Argentina,Energy,male,2900
+73,Chile,Finance & Investments,male,2900
+65,India,Automotive,male,2900
+43,Russia,Healthcare,male,2900
+78,United States,Media & Entertainment,male,2900
+73,United States,Food & Beverage,male,2900
+48,United States,Finance & Investments,male,2900
+85,Germany,Healthcare,female,2900
+46,United States,Finance & Investments,male,2900
+59,United States,Food & Beverage,male,2900
+61,China,Fashion & Retail,male,2900
+62,China,Fashion & Retail,male,2900
+66,India,Fashion & Retail,male,2800
+74,China,Healthcare,male,2800
+44,United States,Technology,male,2800
+75,Cambodia,Gambling & Casinos,male,2800
+69,Singapore,Real Estate,male,2800
+52,South Korea,Automotive,male,2800
+72,India,Diversified,female,2800
+90,United States,Fashion & Retail,female,2800
+53,China,Manufacturing,male,2800
+54,United States,Sports,male,2800
+81,India,Diversified,male,2800
+74,India,Diversified,male,2800
+56,Malaysia,Real Estate,male,2800
+58,China,Manufacturing,male,2800
+54,Russia,Manufacturing,male,2800
+86,United States,Fashion & Retail,male,2800
+67,Lebanon,Telecom,male,2800
+78,Lebanon,Telecom,male,2800
+86,Japan,Real Estate,male,2800
+71,India,Diversified,male,2800
+69,France,Diversified,male,2800
+67,India,Technology,male,2800
+50,India,Service,male,2800
+76,India,Manufacturing,male,2800
+43,United States,Technology,male,2800
+77,United States,Healthcare,male,2800
+41,China,Media & Entertainment,male,2800
+73,China,Manufacturing,male,2800
+61,Taiwan,Manufacturing,male,2800
+85,Hong Kong,Logistics,male,2800
+66,United States,Technology,female,2800
+61,Hong Kong,Manufacturing,male,2800
+79,Hong Kong,Healthcare,male,2800
+56,China,Manufacturing,male,2800
+77,Brazil,Finance & Investments,male,2700
+81,Spain,Finance & Investments,male,2700
+84,Oman,Diversified,male,2700
+70,India,Diversified,male,2700
+68,India,Diversified,male,2700
+74,India,Diversified,male,2700
+72,Hong Kong,Finance & Investments,male,2700
+59,United Kingdom,Healthcare,female,2700
+57,United Kingdom,Healthcare,male,2700
+56,Russia,Manufacturing,male,2700
+80,Australia,Food & Beverage,male,2700
+65,United States,Finance & Investments,male,2700
+63,United Kingdom,Energy,male,2700
+61,United States,Sports,male,2700
+78,India,Automotive,male,2700
+57,United Kingdom,Finance & Investments,male,2700
+84,Spain,Service,male,2700
+72,Singapore,Metals & Mining,male,2700
+58,Russia,Metals & Mining,male,2700
+72,India,Diversified,male,2700
+57,United States,Service,female,2700
+43,India,Finance & Investments,male,2700
+57,Russia,Construction & Engineering,male,2700
+57,Hong Kong,Real Estate,male,2700
+92,Turkey,Diversified,male,2700
+71,Russia,Finance & Investments,male,2700
+37,Hong Kong,Real Estate,male,2700
+31,Hong Kong,Real Estate,male,2700
+71,Germany,Manufacturing,male,2700
+63,United States,Manufacturing,male,2700
+78,United Kingdom,Real Estate,female,2700
+62,Hong Kong,Real Estate,female,2700
+59,China,Technology,male,2700
+54,China,Food & Beverage,male,2700
+77,United States,Sports,male,2700
+61,South Africa,Metals & Mining,male,2700
+64,Ireland,Telecom,male,2700
+76,Sweden,Diversified,male,2700
+69,Japan,Technology,male,2700
+58,Hong Kong,Fashion & Retail,female,2700
+79,India,Diversified,male,2700
+84,United States,Real Estate,male,2700
+55,United States,Healthcare,male,2700
+68,United States,Technology,male,2700
+63,United States,Technology,male,2700
+75,India,Manufacturing,male,2700
+55,Russia,Logistics,male,2700
+32,United States,Technology,male,2700
+81,United States,Service,male,2700
+52,United States,Media & Entertainment,male,2700
+65,Kazakhstan,Metals & Mining,male,2700
+29,Norway,Food & Beverage,male,2700
+58,Hong Kong,Manufacturing,male,2700
+61,China,Healthcare,male,2700
+59,China,Healthcare,male,2700
+53,United States,Real Estate,male,2600
+54,United States,Finance & Investments,male,2600
+56,United States,Finance & Investments,male,2600
+60,United States,Media & Entertainment,male,2600
+51,Brazil,Food & Beverage,male,2600
+50,Brazil,Food & Beverage,male,2600
+46,Germany,Media & Entertainment,female,2600
+48,Switzerland,Manufacturing,female,2600
+58,China,Healthcare,male,2600
+64,Singapore,Finance & Investments,male,2600
+47,China,Manufacturing,male,2600
+71,Mexico,Service,male,2600
+81,United States,Energy,male,2600
+67,Spain,Construction & Engineering,female,2600
+54,China,Manufacturing,male,2600
+79,Ireland,Food & Beverage,male,2600
+61,Sweden,Diversified,male,2600
+54,Sweden,Diversified,male,2600
+58,Australia,Manufacturing,female,2600
+85,United States,Finance & Investments,male,2600
+58,China,Healthcare,male,2600
+75,China,Construction & Engineering,male,2600
+54,Russia,Service,male,2600
+69,Spain,Finance & Investments,female,2600
+40,Hong Kong,Real Estate,male,2600
+77,United States,Finance & Investments,male,2600
+76,France,Food & Beverage,male,2600
+66,Canada,Technology,male,2600
+59,China,Automotive,male,2600
+47,China,Service,male,2600
+69,Singapore,Finance & Investments,male,2600
+52,China,Diversified,male,2600
+95,Switzerland,Service,male,2600
+84,Netherlands,Finance & Investments,male,2600
+76,United States,Food & Beverage,male,2600
+61,Germany,Manufacturing,male,2600
+60,India,Fashion & Retail,female,2600
+55,United States,Finance & Investments,male,2600
+58,Russia,Logistics,male,2600
+79,United States,Finance & Investments,male,2600
+46,United States,Food & Beverage,male,2600
+57,United States,Technology,male,2600
+81,Germany,Automotive,female,2600
+70,United States,Healthcare,male,2600
+77,Germany,Manufacturing,male,2600
+67,United States,Energy,male,2600
+51,Germany,Manufacturing,female,2600
+69,United States,Food & Beverage,male,2600
+57,China,Technology,male,2600
+52,China,Technology,male,2600
+98,United States,Food & Beverage,male,2500
+74,United States,Fashion & Retail,male,2500
+77,United States,Fashion & Retail,female,2500
+78,United States,Fashion & Retail,male,2500
+71,United States,Construction & Engineering,male,2500
+56,United Kingdom,Diversified,male,2500
+91,United States,Food & Beverage,male,2500
+85,India,Food & Beverage,male,2500
+81,United States,Automotive,male,2500
+39,China,Media & Entertainment,male,2500
+75,United States,Food & Beverage,male,2500
+75,United States,Food & Beverage,female,2500
+79,United States,Finance & Investments,male,2500
+75,India,Manufacturing,male,2500
+72,United States,Food & Beverage,male,2500
+55,Russia,Metals & Mining,male,2500
+57,Cyprus,Technology,male,2500
+67,United States,Finance & Investments,male,2500
+61,India,Manufacturing,male,2500
+73,Brazil,Energy,male,2500
+73,Canada,Technology,male,2500
+70,United States,Finance & Investments,male,2500
+64,United States,Fashion & Retail,male,2500
+74,United States,Finance & Investments,male,2500
+53,United States,Media & Entertainment,male,2500
+74,India,Automotive,male,2500
+62,Turkey,Energy,male,2500
+66,United States,Real Estate,male,2500
+70,Austria,Construction & Engineering,male,2500
+70,China,Manufacturing,male,2500
+76,Taiwan,Real Estate,male,2500
+36,China,Fashion & Retail,female,2500
+77,Thailand,Food & Beverage,male,2500
+76,Switzerland,Healthcare,male,2500
+92,India,Automotive,male,2500
+34,United States,Technology,male,2500
+49,Spain,Real Estate,male,2500
+64,United States,Manufacturing,female,2500
+69,United States,Finance & Investments,male,2500
+77,China,Technology,female,2500
+59,Turkey,Diversified,male,2500
+77,China,Metals & Mining,male,2500
+60,China,Diversified,male,2500
+63,United States,Real Estate,male,2500
+69,Philippines,Diversified,male,2500
+71,Philippines,Diversified,male,2500
+53,Singapore,Energy,male,2500
+64,United States,Finance & Investments,male,2500
+76,United States,Real Estate,male,2500
+78,Germany,Automotive,male,2500
+74,China,Fashion & Retail,male,2500
+69,United States,Media & Entertainment,female,2500
+88,China,Food & Beverage,male,2500
+66,Singapore,Metals & Mining,male,2500
+45,China,Fashion & Retail,male,2500
+51,United States,Technology,male,2400
+83,United Arab Emirates,Automotive,male,2400
+77,United States,Energy,male,2400
+70,South Africa,Media & Entertainment,male,2400
+45,Germany,Healthcare,male,2400
+74,United States,Fashion & Retail,male,2400
+86,Brazil,Fashion & Retail,male,2400
+58,Switzerland,Finance & Investments,male,2400
+91,United States,Fashion & Retail,female,2400
+78,United States,Finance & Investments,male,2400
+66,France,Healthcare,male,2400
+55,Switzerland,Finance & Investments,male,2400
+88,Germany,Gambling & Casinos,male,2400
+61,Canada,Real Estate,male,2400
+76,United Kingdom,Finance & Investments,male,2400
+79,China,Healthcare,male,2400
+68,Singapore,Diversified,male,2400
+77,United States,Manufacturing,female,2400
+57,India,Media & Entertainment,male,2400
+48,United States,Finance & Investments,male,2400
+65,United States,Manufacturing,male,2400
+58,Switzerland,Metals & Mining,male,2400
+63,United States,Finance & Investments,male,2400
+61,China,Real Estate,male,2400
+61,China,Manufacturing,male,2400
+68,India,Diversified,male,2400
+63,Switzerland,Finance & Investments,male,2400
+55,Netherlands,Technology,male,2400
+67,Philippines,Diversified,male,2400
+66,Philippines,Diversified,male,2400
+88,Philippines,Diversified,male,2400
+72,Taiwan,Technology,male,2400
+84,United States,Media & Entertainment,male,2400
+84,United States,Real Estate,male,2400
+61,Switzerland,Finance & Investments,male,2400
+54,United States,Technology,male,2400
+53,China,Manufacturing,male,2400
+54,China,Manufacturing,male,2400
+85,United States,Real Estate,male,2400
+63,United Kingdom,Finance & Investments,male,2300
+66,United States,Energy,male,2300
+43,United States,Technology,male,2300
+41,United States,Technology,male,2300
+73,United States,Fashion & Retail,male,2300
+91,Taiwan,Technology,male,2300
+78,Taiwan,Real Estate,male,2300
+53,Hong Kong,Manufacturing,female,2300
+68,India,Technology,male,2300
+62,United States,Diversified,male,2300
+66,United States,Diversified,male,2300
+40,Sweden,Technology,male,2300
+61,United States,Fashion & Retail,male,2300
+61,Germany,Fashion & Retail,male,2300
+55,Turkey,Construction & Engineering,male,2300
+45,United States,Finance & Investments,male,2300
+49,China,Technology,male,2300
+67,United States,Finance & Investments,male,2300
+44,South Korea,Technology,male,2300
+58,Hong Kong,Healthcare,male,2300
+70,Guernsey,Finance & Investments,male,2300
+45,China,Finance & Investments,male,2300
+71,Malaysia,Gambling & Casinos,male,2300
+88,India,Food & Beverage,male,2300
+82,United States,Food & Beverage,male,2300
+65,China,Fashion & Retail,male,2300
+55,Russia,Food & Beverage,male,2300
+99,United States,Food & Beverage,male,2300
+75,United States,Fashion & Retail,male,2300
+69,Brazil,Finance & Investments,male,2300
+69,Italy,Fashion & Retail,male,2300
+77,Italy,Fashion & Retail,female,2300
+56,Turkey,Diversified,female,2300
+72,United States,Food & Beverage,male,2300
+75,Switzerland,Finance & Investments,male,2300
+78,Switzerland,Healthcare,male,2300
+47,United States,Real Estate,male,2300
+89,Hong Kong,Fashion & Retail,male,2300
+69,China,Technology,male,2300
+70,Taiwan,Finance & Investments,male,2300
+62,United States,Technology,female,2300
+56,United Kingdom,Finance & Investments,male,2300
+77,Australia,Real Estate,male,2300
+74,China,Manufacturing,male,2300
+61,China,Real Estate,male,2300
+79,Germany,Food & Beverage,male,2300
+56,China,Fashion & Retail,male,2300
+57,China,Manufacturing,male,2300
+65,Liechtenstein,Healthcare,male,2300
+87,China,Manufacturing,male,2300
+86,United States,Real Estate,male,2200
+40,United States,Finance & Investments,male,2200
+52,Russia,Energy,male,2200
+73,Turkey,Diversified,male,2200
+57,United States,Technology,male,2200
+63,Bahamas,Fashion & Retail,male,2200
+85,United States,Finance & Investments,male,2200
+55,China,Finance & Investments,female,2200
+71,China,Healthcare,male,2200
+72,Ireland,Finance & Investments,male,2200
+52,China,Healthcare,male,2200
+61,United States,Fashion & Retail,male,2200
+69,China,Food & Beverage,male,2200
+61,United States,Finance & Investments,male,2200
+64,United States,Finance & Investments,male,2200
+67,China,Healthcare,male,2200
+78,Israel,Automotive,male,2200
+83,Germany,Technology,male,2200
+76,Germany,Healthcare,male,2200
+64,China,Real Estate,male,2200
+80,United States,Finance & Investments,male,2200
+73,United States,Fashion & Retail,male,2200
+75,United States,Automotive,male,2200
+48,China,Fashion & Retail,male,2200
+62,United States,Finance & Investments,male,2200
+78,Australia,Fashion & Retail,male,2200
+54,Singapore,Diversified,male,2200
+68,Thailand,Diversified,male,2200
+43,United States,Technology,male,2200
+60,United States,Energy,male,2200
+76,United States,Finance & Investments,male,2200
+99,United States,Finance & Investments,male,2200
+44,United States,Real Estate,male,2200
+52,Vietnam,Diversified,female,2200
+71,China,Food & Beverage,male,2200
+60,Australia,Manufacturing,female,2200
+52,China,Technology,male,2200
+73,United States,Technology,male,2200
+91,India,Healthcare,male,2200
+87,United States,Sports,male,2200
+52,United States,Technology,male,2200
+84,Switzerland,Fashion & Retail,male,2200
+96,United States,Healthcare,female,2200
+43,Canada,Technology,male,2200
+66,United States,Technology,male,2200
+55,United States,Real Estate,male,2200
+67,United States,Technology,male,2200
+65,United States,Finance & Investments,male,2200
+63,Philippines,Diversified,male,2200
+72,Philippines,Diversified,female,2200
+77,Japan,Real Estate,male,2200
+67,China,Manufacturing,male,2200
+55,China,Technology,male,2200
+73,Sweden,Fashion & Retail,female,2200
+46,United Arab Emirates,Healthcare,male,2200
+50,India,Technology,female,2200
+66,China,Fashion & Retail,male,2200
+78,China,Service,male,2200
+65,Israel,Food & Beverage,male,2200
+55,China,Energy,male,2200
+55,China,Food & Beverage,male,2200
+59,Hong Kong,Manufacturing,male,2200
+57,China,Logistics,male,2200
+58,United States,Finance & Investments,male,2200
+54,Canada,Manufacturing,male,2200
+57,China,Energy,male,2200
+55,United Kingdom,Metals & Mining,male,2100
+52,United States,Food & Beverage,male,2100
+91,United States,Gambling & Casinos,male,2100
+70,India,Food & Beverage,male,2100
+71,China,Manufacturing,male,2100
+86,Taiwan,Technology,male,2100
+52,China,Technology,male,2100
+62,Hong Kong,Energy,male,2100
+82,Switzerland,Healthcare,male,2100
+64,Italy,Fashion & Retail,male,2100
+59,Germany,Technology,male,2100
+50,United Kingdom,Diversified,male,2100
+53,United Kingdom,Diversified,male,2100
+78,Australia,Real Estate,male,2100
+65,United States,Energy,male,2100
+60,Italy,Fashion & Retail,male,2100
+59,China,Manufacturing,male,2100
+89,United States,Energy,male,2100
+64,United States,Energy,male,2100
+78,United States,Healthcare,male,2100
+65,India,Diversified,male,2100
+62,India,Diversified,male,2100
+67,United States,Real Estate,female,2100
+66,Norway,Fashion & Retail,male,2100
+56,Switzerland,Real Estate,male,2100
+72,Spain,Fashion & Retail,female,2100
+80,Taiwan,Diversified,male,2100
+49,China,Manufacturing,male,2100
+40,United States,Technology,male,2100
+57,Russia,Technology,male,2100
+48,Cyprus,Fashion & Retail,male,2100
+47,Russia,Food & Beverage,male,2100
+71,Hong Kong,Real Estate,male,2100
+62,United States,Finance & Investments,male,2100
+82,France,Finance & Investments,male,2100
+67,United States,Sports,male,2100
+82,Taiwan,Real Estate,female,2100
+60,China,Manufacturing,male,2100
+49,Cyprus,Fashion & Retail,male,2100
+54,United States,Food & Beverage,male,2100
+67,India,Diversified,male,2100
+72,India,Fashion & Retail,male,2100
+41,Sweden,Diversified,female,2100
+70,India,Healthcare,female,2100
+65,India,Automotive,male,2100
+43,China,Technology,male,2100
+80,Ireland,Manufacturing,male,2100
+60,Russia,Finance & Investments,male,2100
+66,China,Manufacturing,male,2100
+76,Spain,Construction & Engineering,male,2100
+62,Ukraine,Metals & Mining,male,2100
+40,United States,Technology,male,2100
+41,India,Technology,male,2100
+65,India,Construction & Engineering,male,2100
+41,United States,Fashion & Retail,male,2100
+49,China,Healthcare,male,2100
+73,United Arab Emirates,Finance & Investments,male,2100
+53,Singapore,Food & Beverage,female,2100
+75,United States,Healthcare,male,2100
+70,India,Automotive,male,2100
+68,United States,Fashion & Retail,male,2100
+73,China,Food & Beverage,male,2100
+55,Russia,Finance & Investments,male,2100
+56,Germany,Fashion & Retail,male,2100
+74,United States,Food & Beverage,female,2100
+50,United States,Food & Beverage,male,2100
+54,China,Construction & Engineering,male,2100
+69,China,Food & Beverage,male,2100
+66,Taiwan,Food & Beverage,male,2100
+64,China,Food & Beverage,male,2100
+68,Taiwan,Food & Beverage,male,2100
+80,United States,Gambling & Casinos,female,2100
+53,China,Automotive,male,2100
+73,Hong Kong,Fashion & Retail,male,2100
+57,China,Manufacturing,male,2100
+72,China,Manufacturing,male,2100
+49,China,Manufacturing,female,2100
+57,China,Healthcare,male,2100
+80,India,Construction & Engineering,female,2000
+94,United Kingdom,Fashion & Retail,male,2000
+49,United Kingdom,Technology,male,2000
+77,Turks and Caicos Islands,Finance & Investments,male,2000
+62,Czech Republic,Technology,male,2000
+66,Germany,Healthcare,male,2000
+44,China,Manufacturing,male,2000
+52,China,Manufacturing,male,2000
+71,Thailand,Diversified,male,2000
+69,China,Diversified,male,2000
+88,Monaco,Food & Beverage,female,2000
+85,United States,Diversified,male,2000
+51,Monaco,Healthcare,male,2000
+68,United States,Real Estate,female,2000
+47,United Kingdom,Metals & Mining,male,2000
+58,China,Technology,male,2000
+62,Hong Kong,Manufacturing,male,2000
+64,China,Media & Entertainment,male,2000
+55,United States,Finance & Investments,male,2000
+60,United States,Sports,male,2000
+77,United States,Real Estate,female,2000
+57,Israel,Technology,male,2000
+77,Finland,Healthcare,male,2000
+50,Hong Kong,Technology,male,2000
+57,China,Technology,male,2000
+40,China,Technology,male,2000
+58,China,Manufacturing,male,2000
+61,China,Energy,male,2000
+64,Thailand,Manufacturing,male,2000
+73,Canada,Real Estate,male,2000
+63,Israel,Finance & Investments,male,2000
+73,United States,Telecom,male,2000
+59,China,Manufacturing,male,2000
+47,China,Service,male,2000
+75,Singapore,Finance & Investments,male,2000
+69,Australia,Metals & Mining,male,2000
+48,United States,Technology,male,2000
+69,United States,Service,female,2000
+53,India,Construction & Engineering,male,2000
+46,Australia,Metals & Mining,female,2000
+36,Australia,Metals & Mining,female,2000
+87,United States,Finance & Investments,male,2000
+71,India,Manufacturing,male,2000
+66,Poland,Media & Entertainment,male,2000
+67,Germany,Fashion & Retail,female,2000
+69,Indonesia,Technology,male,2000
+77,Canada,Sports,male,2000
+76,Thailand,Finance & Investments,male,2000
+83,Romania,Finance & Investments,male,2000
+37,United States,Metals & Mining,female,2000
+82,United States,Manufacturing,male,2000
+57,China,Technology,male,2000
+57,China,Technology,male,2000
+73,China,Manufacturing,male,2000
+48,China,Technology,male,2000
+46,China,Energy,male,2000
+59,China,Healthcare,male,2000
+74,Chile,Diversified,male,1900
+56,Finland,Energy,male,1900
+53,United States,Sports,male,1900
+87,Brazil,Finance & Investments,male,1900
+55,Russia,Energy,male,1900
+82,Italy,Fashion & Retail,male,1900
+71,United States,Fashion & Retail,male,1900
+56,China,Fashion & Retail,male,1900
+52,China,Manufacturing,male,1900
+57,China,Technology,male,1900
+74,Thailand,Diversified,male,1900
+60,United States,Food & Beverage,female,1900
+57,Spain,Food & Beverage,female,1900
+67,United States,Sports,male,1900
+63,United States,Finance & Investments,male,1900
+53,China,Healthcare,male,1900
+73,Turkey,Diversified,male,1900
+68,Turkey,Diversified,male,1900
+90,Argentina,Diversified,male,1900
+65,Hong Kong,Real Estate,male,1900
+59,China,Fashion & Retail,male,1900
+81,India,Manufacturing,male,1900
+39,Switzerland,Diversified,female,1900
+81,Mexico,Finance & Investments,male,1900
+55,United States,Technology,male,1900
+64,China,Manufacturing,male,1900
+63,United States,Real Estate,male,1900
+72,Hong Kong,Real Estate,male,1900
+64,United States,Finance & Investments,male,1900
+77,United States,Finance & Investments,male,1900
+45,United Kingdom,Finance & Investments,female,1900
+60,United States,Finance & Investments,male,1900
+85,United States,Food & Beverage,male,1900
+61,United States,Real Estate,male,1900
+56,China,Real Estate,male,1900
+69,United States,Food & Beverage,female,1900
+62,United Kingdom,Telecom,male,1900
+89,Hong Kong,Fashion & Retail,male,1900
+55,United Kingdom,Technology,male,1900
+74,Japan,Food & Beverage,male,1900
+65,India,Manufacturing,male,1900
+84,India,Manufacturing,male,1900
+72,United States,Finance & Investments,female,1900
+80,India,Fashion & Retail,male,1900
+66,China,Manufacturing,male,1900
+53,United States,Finance & Investments,male,1900
+81,United States,Construction & Engineering,male,1900
+68,China,Manufacturing,male,1900
+60,China,Technology,male,1900
+95,Taiwan,Manufacturing,male,1900
+73,Indonesia,Finance & Investments,male,1900
+63,United States,Food & Beverage,female,1900
+70,Philippines,Diversified,female,1900
+60,Indonesia,Manufacturing,male,1900
+64,Turkey,Construction & Engineering,male,1900
+76,Japan,Fashion & Retail,male,1900
+90,Greece,Energy,male,1900
+57,India,Real Estate,male,1900
+67,China,Real Estate,male,1900
+91,China,Fashion & Retail,male,1900
+80,United States,Food & Beverage,female,1900
+72,China,Healthcare,female,1900
+88,China,Manufacturing,male,1900
+65,Israel,Finance & Investments,male,1900
+68,China,Diversified,male,1900
+71,United States,Manufacturing,female,1900
+43,Australia,Technology,male,1800
+51,United Kingdom,Fashion & Retail,male,1800
+75,Qatar,Diversified,male,1800
+79,United States,Sports,male,1800
+57,Japan,Real Estate,male,1800
+49,Italy,Fashion & Retail,female,1800
+59,India,Technology,male,1800
+58,United States,Finance & Investments,male,1800
+78,Uruguay,Energy,male,1800
+74,India,Food & Beverage,male,1800
+67,Nepal,Diversified,male,1800
+42,United States,Technology,male,1800
+62,United States,Technology,male,1800
+62,United Kingdom,Finance & Investments,male,1800
+68,Netherlands,Media & Entertainment,male,1800
+60,Spain,Construction & Engineering,male,1800
+59,China,Technology,male,1800
+78,United States,Healthcare,male,1800
+78,United States,Sports,male,1800
+86,United States,Healthcare,male,1800
+77,Brazil,Finance & Investments,male,1800
+80,United States,Food & Beverage,male,1800
+86,India,Healthcare,male,1800
+58,United States,Finance & Investments,male,1800
+63,China,Real Estate,male,1800
+72,China,Automotive,male,1800
+57,China,Healthcare,male,1800
+68,China,Healthcare,male,1800
+46,Cyprus,Technology,male,1800
+45,South Korea,Diversified,male,1800
+52,United States,Technology,male,1800
+67,United States,Sports,male,1800
+33,United States,Technology,male,1800
+43,Sweden,Diversified,female,1800
+47,China,Metals & Mining,male,1800
+69,Brazil,Media & Entertainment,male,1800
+67,Brazil,Media & Entertainment,male,1800
+75,Brazil,Media & Entertainment,male,1800
+74,United States,Healthcare,male,1800
+77,Canada,Technology,male,1800
+51,Sweden,Real Estate,male,1800
+39,Netherlands,Technology,male,1800
+78,India,Real Estate,male,1800
+77,Monaco,Finance & Investments,male,1800
+70,India,Manufacturing,male,1800
+72,Turkey,Diversified,male,1800
+53,China,Technology,male,1800
+61,Canada,Media & Entertainment,male,1800
+80,United States,Finance & Investments,male,1800
+46,United States,Technology,male,1800
+76,Thailand,Media & Entertainment,male,1800
+70,India,Manufacturing,male,1800
+58,Russia,Metals & Mining,male,1800
+57,China,Food & Beverage,male,1800
+75,China,Energy,male,1800
+68,India,Technology,male,1800
+60,South Korea,Fashion & Retail,male,1800
+64,Indonesia,Food & Beverage,male,1800
+73,China,Manufacturing,male,1800
+83,Hong Kong,Logistics,male,1800
+62,Vietnam,Manufacturing,male,1800
+67,United States,Technology,male,1800
+46,United States,Finance & Investments,male,1800
+53,Netherlands,Technology,male,1800
+69,Germany,Manufacturing,male,1800
+35,United States,Technology,male,1800
+62,United States,Media & Entertainment,male,1800
+51,United States,Technology,male,1800
+75,Australia,Metals & Mining,male,1800
+72,Taiwan,Finance & Investments,male,1800
+56,China,Energy,male,1800
+52,United States,Healthcare,female,1800
+50,China,Real Estate,male,1800
+82,Japan,Fashion & Retail,male,1800
+60,United States,Manufacturing,male,1800
+70,China,Real Estate,male,1800
+67,United States,Sports,female,1700
+51,United States,Finance & Investments,male,1700
+85,Italy,Metals & Mining,male,1700
+57,Netherlands,Real Estate,male,1700
+50,South Korea,Media & Entertainment,male,1700
+77,United States,Finance & Investments,male,1700
+61,United States,Technology,male,1700
+79,Netherlands,Manufacturing,male,1700
+83,United States,Food & Beverage,male,1700
+53,Czech Republic,Finance & Investments,male,1700
+53,United States,Healthcare,male,1700
+47,Italy,Finance & Investments,male,1700
+74,France,Automotive,male,1700
+75,Japan,Media & Entertainment,male,1700
+81,United States,Finance & Investments,male,1700
+68,Switzerland,Finance & Investments,male,1700
+67,United States,Real Estate,male,1700
+73,Brazil,Fashion & Retail,male,1700
+83,Australia,Fashion & Retail,male,1700
+49,China,Technology,male,1700
+73,Thailand,Real Estate,male,1700
+66,Canada,Finance & Investments,male,1700
+64,Finland,Manufacturing,male,1700
+68,Singapore,Real Estate,male,1700
+90,Canada,Finance & Investments,male,1700
+71,India,Manufacturing,male,1700
+72,Thailand,Real Estate,male,1700
+52,United States,Healthcare,male,1700
+62,South Korea,Fashion & Retail,male,1700
+59,Turkey,Fashion & Retail,male,1700
+37,Hong Kong,Real Estate,male,1700
+42,Hong Kong,Real Estate,male,1700
+53,China,Logistics,male,1700
+87,Malaysia,Diversified,male,1700
+48,United States,Technology,male,1700
+70,China,Healthcare,female,1700
+78,United States,Healthcare,male,1700
+54,China,Food & Beverage,female,1700
+59,United States,Food & Beverage,male,1700
+54,China,Metals & Mining,male,1700
+30,United States,Technology,male,1700
+85,United States,Finance & Investments,male,1700
+47,Japan,Technology,male,1700
+60,Brazil,Fashion & Retail,male,1700
+74,China,Manufacturing,male,1700
+73,Spain,Fashion & Retail,male,1700
+75,India,Manufacturing,female,1700
+56,Romania,Fashion & Retail,male,1700
+73,United States,Real Estate,male,1700
+59,Russia,Metals & Mining,male,1700
+60,China,Healthcare,male,1700
+63,United States,Media & Entertainment,male,1700
+76,United States,Food & Beverage,male,1700
+87,China,Manufacturing,male,1700
+67,United States,Real Estate,male,1700
+64,Russia,Diversified,male,1700
+58,Japan,Healthcare,male,1700
+89,India,Manufacturing,male,1700
+53,China,Fashion & Retail,male,1700
+75,France,Real Estate,male,1700
+69,United States,Diversified,male,1700
+63,United States,Service,male,1700
+82,Taiwan,Manufacturing,male,1700
+59,China,Technology,male,1700
+72,United States,Sports,male,1700
+76,United States,Real Estate,male,1700
+80,United Kingdom,Energy,male,1700
+49,China,Manufacturing,female,1700
+49,China,Food & Beverage,male,1700
+58,China,Manufacturing,male,1700
+74,Russia,Telecom,male,1700
+49,United States,Technology,male,1700
+53,China,Logistics,female,1700
+59,China,Manufacturing,male,1700
+60,China,Manufacturing,female,1700
+60,United States,Healthcare,male,1600
+71,Malaysia,Construction & Engineering,male,1600
+83,United States,Finance & Investments,male,1600
+71,Switzerland,Metals & Mining,male,1600
+56,United States,Finance & Investments,male,1600
+66,United States,Finance & Investments,male,1600
+53,China,Manufacturing,male,1600
+50,Austria,Fashion & Retail,male,1600
+89,Germany,Food & Beverage,male,1600
+47,China,Technology,male,1600
+38,China,Technology,male,1600
+87,Taiwan,Real Estate,male,1600
+62,South Korea,Technology,male,1600
+55,Slovakia,Real Estate,male,1600
+64,United States,Construction & Engineering,male,1600
+82,Canada,Finance & Investments,male,1600
+65,United States,Finance & Investments,male,1600
+69,United States,Sports,male,1600
+68,France,Logistics,male,1600
+67,United States,Finance & Investments,male,1600
+51,United States,Technology,male,1600
+53,Brazil,Finance & Investments,male,1600
+49,Switzerland,Metals & Mining,male,1600
+78,United States,Finance & Investments,male,1600
+74,Canada,Fashion & Retail,male,1600
+54,China,Healthcare,male,1600
+45,Switzerland,Healthcare,male,1600
+78,United States,Finance & Investments,male,1600
+73,United States,Finance & Investments,female,1600
+88,United States,Sports,male,1600
+72,United States,Energy,male,1600
+58,Finland,Manufacturing,female,1600
+70,United States,Diversified,male,1600
+89,United States,Media & Entertainment,male,1600
+69,China,Manufacturing,male,1600
+60,China,Metals & Mining,male,1600
+59,China,Real Estate,male,1600
+65,Russia,Fashion & Retail,male,1600
+69,United States,Healthcare,male,1600
+82,United States,Energy,male,1600
+73,Austria,Manufacturing,male,1600
+76,Japan,Logistics,male,1600
+74,United States,Healthcare,male,1600
+68,United Kingdom,Diversified,male,1600
+70,Greece,Diversified,female,1600
+45,Malaysia,Real Estate,male,1600
+66,China,Real Estate,male,1600
+57,China,Real Estate,male,1600
+46,China,Technology,male,1600
+51,China,Technology,female,1600
+75,Hong Kong,Real Estate,male,1600
+80,Canada,Telecom,male,1600
+57,United States,Technology,male,1600
+74,United Arab Emirates,Real Estate,male,1600
+77,Italy,Energy,male,1600
+69,Israel,Finance & Investments,female,1600
+66,Austria,Automotive,male,1600
+58,Germany,Finance & Investments,male,1600
+63,Germany,Finance & Investments,male,1600
+74,United States,Energy,male,1600
+58,Spain,Manufacturing,male,1600
+54,Spain,Metals & Mining,male,1600
+44,United States,Food & Beverage,male,1600
+68,Thailand,Food & Beverage,male,1600
+49,China,Manufacturing,male,1600
+55,Switzerland,Food & Beverage,male,1600
+59,United Kingdom,Metals & Mining,male,1600
+44,United States,Technology,male,1600
+61,Russia,Diversified,male,1600
+63,United States,Service,male,1600
+72,United States,Diversified,female,1600
+74,United States,Diversified,male,1600
+57,Austria,Manufacturing,male,1600
+67,United States,Healthcare,male,1600
+51,India,Technology,male,1600
+70,Australia,Energy,male,1600
+57,China,Media & Entertainment,male,1600
+36,China,Media & Entertainment,male,1600
+67,United States,Technology,male,1600
+66,United States,Energy,male,1600
+82,Australia,Fashion & Retail,male,1600
+76,Australia,Fashion & Retail,male,1600
+85,Australia,Fashion & Retail,male,1600
+57,United States,Technology,male,1600
+58,China,Manufacturing,male,1600
+53,China,Healthcare,female,1600
+49,China,Technology,male,1600
+59,China,Manufacturing,male,1600
+64,China,Technology,male,1600
+63,United States,Healthcare,male,1600
+40,China,Technology,male,1600
+52,China,Automotive,male,1600
+62,China,Diversified,male,1600
+55,China,Manufacturing,female,1600
+48,China,Technology,male,1600
+75,China,Metals & Mining,male,1600
+58,China,Food & Beverage,male,1600
+52,Sweden,Gambling & Casinos,male,1600
+82,India,Food & Beverage,male,1500
+62,Morocco,Diversified,male,1500
+68,Turkey,Diversified,male,1500
+61,Italy,Manufacturing,male,1500
+26,Norway,Diversified,female,1500
+27,Norway,Diversified,female,1500
+68,Chile,Diversified,female,1500
+70,Israel,Healthcare,male,1500
+53,Italy,Fashion & Retail,female,1500
+79,Australia,Metals & Mining,female,1500
+79,Israel,Diversified,male,1500
+85,Italy,Fashion & Retail,male,1500
+46,United Arab Emirates,Food & Beverage,male,1500
+65,Turkey,Diversified,male,1500
+61,United States,Technology,female,1500
+68,Taiwan,Logistics,male,1500
+60,China,Manufacturing,male,1500
+70,Hungary,Diversified,male,1500
+49,Brazil,Finance & Investments,female,1500
+55,Italy,Manufacturing,male,1500
+70,United States,Technology,male,1500
+47,Tanzania,Diversified,male,1500
+49,United States,Finance & Investments,male,1500
+60,China,Manufacturing,male,1500
+94,United States,Media & Entertainment,male,1500
+69,France,Fashion & Retail,male,1500
+78,Malaysia,Logistics,male,1500
+87,Switzerland,Fashion & Retail,female,1500
+58,China,Manufacturing,male,1500
+67,United States,Technology,male,1500
+54,United States,Finance & Investments,male,1500
+53,Slovakia,Finance & Investments,male,1500
+69,China,Manufacturing,male,1500
+73,India,Real Estate,male,1500
+52,Vietnam,Finance & Investments,male,1500
+70,Taiwan,Technology,male,1500
+61,New Zealand,Media & Entertainment,male,1500
+97,Canada,Finance & Investments,male,1500
+57,India,Healthcare,male,1500
+67,India,Healthcare,male,1500
+62,China,Diversified,male,1500
+78,South Korea,Diversified,male,1500
+95,United States,Fashion & Retail,male,1500
+73,United States,Food & Beverage,male,1500
+68,Singapore,Real Estate,male,1500
+76,Switzerland,Diversified,male,1500
+56,Germany,Manufacturing,male,1500
+60,Germany,Manufacturing,female,1500
+63,Germany,Manufacturing,female,1500
+50,China,Manufacturing,male,1500
+59,China,Manufacturing,male,1500
+71,China,Fashion & Retail,male,1500
+66,China,Manufacturing,male,1500
+90,Taiwan,Technology,male,1500
+66,China,Manufacturing,male,1500
+80,China,Automotive,female,1500
+59,China,Logistics,male,1500
+77,Egypt,Diversified,male,1500
+79,Australia,Real Estate,male,1500
+88,Italy,Diversified,male,1500
+48,United States,Finance & Investments,male,1500
+70,Italy,Fashion & Retail,male,1500
+78,Bahrain,Service,male,1500
+79,United States,Logistics,male,1500
+63,United States,Technology,male,1500
+74,United Kingdom,Diversified,male,1500
+73,Brazil,Energy,male,1500
+80,United States,Finance & Investments,male,1500
+49,Mexico,Construction & Engineering,male,1500
+48,Sweden,Fashion & Retail,male,1500
+55,United States,Food & Beverage,male,1500
+66,United States,Food & Beverage,male,1500
+39,Singapore,Real Estate,male,1500
+63,Peru,Finance & Investments,male,1500
+52,United Kingdom,Finance & Investments,male,1500
+56,United States,Service,male,1500
+53,United States,Technology,female,1500
+62,Israel,Automotive,male,1500
+40,United States,Media & Entertainment,male,1500
+64,Singapore,Fashion & Retail,male,1500
+73,Russia,Finance & Investments,male,1500
+82,India,Healthcare,male,1500
+64,United States,Technology,male,1500
+79,Australia,Real Estate,male,1500
+72,United States,Real Estate,male,1500
+65,United States,Finance & Investments,male,1500
+56,Russia,Fashion & Retail,male,1500
+74,China,Real Estate,female,1500
+39,United States,Technology,male,1500
+40,China,Food & Beverage,male,1500
+79,Thailand,Manufacturing,male,1500
+50,United States,Healthcare,male,1500
+63,China,Fashion & Retail,male,1500
+67,Australia,Telecom,male,1500
+79,Andorra,Manufacturing,female,1500
+63,Vietnam,Automotive,male,1500
+75,United States,Telecom,male,1500
+52,Sweden,Gambling & Casinos,male,1500
+54,China,Healthcare,male,1500
+61,China,Healthcare,male,1500
+71,United States,Energy,male,1500
+87,Hong Kong,Real Estate,male,1500
+47,China,Technology,male,1500
+50,China,Technology,male,1500
+62,China,Food & Beverage,male,1500
+61,China,Service,male,1500
+43,China,Service,male,1500
+66,China,Fashion & Retail,male,1500
+83,Finland,Diversified,male,1400
+80,Spain,Finance & Investments,male,1400
+52,Australia,Fashion & Retail,male,1400
+40,Singapore,Technology,male,1400
+75,India,Healthcare,male,1400
+79,United Kingdom,Diversified,male,1400
+71,Russia,Energy,male,1400
+53,India,Food & Beverage,male,1400
+52,China,Metals & Mining,male,1400
+64,United States,Technology,male,1400
+55,China,Technology,male,1400
+74,Singapore,Real Estate,male,1400
+83,Brazil,Finance & Investments,male,1400
+65,Australia,Metals & Mining,male,1400
+97,United States,Manufacturing,male,1400
+65,United States,Finance & Investments,male,1400
+75,Switzerland,Fashion & Retail,male,1400
+44,United States,Technology,male,1400
+55,Philippines,Diversified,male,1400
+53,China,Food & Beverage,male,1400
+64,India,Manufacturing,male,1400
+80,Switzerland,Service,male,1400
+44,France,Construction & Engineering,male,1400
+79,Mexico,Finance & Investments,male,1400
+45,China,Automotive,male,1400
+65,United Kingdom,Fashion & Retail,male,1400
+81,United States,Fashion & Retail,male,1400
+40,United States,Technology,male,1400
+58,China,Manufacturing,male,1400
+74,India,Manufacturing,male,1400
+68,China,Healthcare,male,1400
+56,South Korea,Media & Entertainment,male,1400
+59,Singapore,Real Estate,male,1400
+51,Russia,Manufacturing,male,1400
+76,India,Finance & Investments,male,1400
+42,Switzerland,Finance & Investments,male,1400
+77,Singapore,Real Estate,male,1400
+65,Singapore,Real Estate,male,1400
+70,Singapore,Real Estate,male,1400
+76,Singapore,Real Estate,male,1400
+71,Singapore,Diversified,male,1400
+67,Singapore,Diversified,male,1400
+69,Hong Kong,Real Estate,male,1400
+60,South Korea,Diversified,male,1400
+72,Canada,Finance & Investments,male,1400
+69,Monaco,Service,male,1400
+97,United Kingdom,Fashion & Retail,male,1400
+48,China,Automotive,male,1400
+52,Sweden,Manufacturing,female,1400
+53,China,Healthcare,male,1400
+69,Taiwan,Technology,male,1400
+60,Hong Kong,Manufacturing,male,1400
+70,Russia,Metals & Mining,male,1400
+79,Canada,Food & Beverage,male,1400
+90,Brazil,Diversified,female,1400
+69,United States,Media & Entertainment,male,1400
+82,China,Technology,male,1400
+82,United Kingdom,Manufacturing,male,1400
+66,India,Manufacturing,male,1400
+68,China,Real Estate,male,1400
+55,China,Healthcare,male,1400
+82,Japan,Real Estate,female,1400
+57,Israel,Technology,male,1400
+59,Ukraine,Metals & Mining,male,1400
+49,Thailand,Finance & Investments,male,1400
+57,Australia,Finance & Investments,female,1400
+58,China,Manufacturing,male,1400
+60,China,Real Estate,male,1400
+56,United States,Healthcare,male,1400
+38,Sweden,Fashion & Retail,male,1400
+50,China,Automotive,female,1400
+57,China,Manufacturing,male,1400
+65,India,Healthcare,male,1400
+93,Indonesia,Diversified,male,1400
+35,United States,Fashion & Retail,female,1400
+66,Russia,Construction & Engineering,male,1400
+79,India,Real Estate,male,1400
+50,Russia,Manufacturing,male,1400
+61,Brazil,Healthcare,male,1400
+85,United States,Real Estate,male,1400
+61,Russia,Energy,male,1400
+58,Russia,Energy,male,1400
+97,Japan,Fashion & Retail,male,1400
+48,United States,Technology,male,1400
+46,Sweden,Fashion & Retail,female,1400
+52,India,Healthcare,male,1400
+57,India,Healthcare,male,1400
+95,United States,Finance & Investments,female,1400
+60,China,Technology,male,1400
+58,China,Logistics,male,1400
+68,China,Manufacturing,male,1400
+76,China,Manufacturing,female,1400
+26,China,Metals & Mining,male,1400
+84,Switzerland,Manufacturing,male,1400
+37,Brazil,Manufacturing,female,1400
+80,United States,Finance & Investments,male,1400
+68,China,Manufacturing,male,1400
+53,China,Manufacturing,male,1400
+43,China,Technology,male,1400
+59,China,Manufacturing,male,1400
+58,China,Food & Beverage,male,1400
+63,China,Real Estate,male,1400
+52,China,Healthcare,female,1400
+60,China,Manufacturing,male,1400
+62,China,Real Estate,male,1400
+57,China,Real Estate,female,1400
+60,China,Manufacturing,male,1400
+62,China,Manufacturing,male,1400
+65,Singapore,Real Estate,male,1400
+57,China,Fashion & Retail,male,1400
+63,Russia,Diversified,male,1400
+53,United States,Automotive,male,1300
+85,Indonesia,Logistics,male,1300
+64,India,Healthcare,male,1300
+76,India,Healthcare,male,1300
+72,Thailand,Real Estate,male,1300
+55,Russia,Finance & Investments,male,1300
+64,Israel,Automotive,male,1300
+41,India,Fashion & Retail,male,1300
+83,Indonesia,Energy,male,1300
+60,United Kingdom,Construction & Engineering,female,1300
+70,India,Healthcare,male,1300
+90,Morocco,Finance & Investments,male,1300
+66,India,Diversified,male,1300
+70,India,Healthcare,male,1300
+50,United States,Technology,male,1300
+71,China,Technology,male,1300
+40,United States,Technology,male,1300
+58,China,Manufacturing,male,1300
+76,Taiwan,Real Estate,male,1300
+62,China,Metals & Mining,male,1300
+50,China,Manufacturing,male,1300
+64,Taiwan,Automotive,male,1300
+52,United States,Telecom,male,1300
+77,Spain,Finance & Investments,male,1300
+76,Argentina,Real Estate,male,1300
+54,China,Food & Beverage,male,1300
+60,India,Technology,male,1300
+86,Turkey,Media & Entertainment,male,1300
+52,Italy,Finance & Investments,female,1300
+55,Italy,Finance & Investments,male,1300
+59,China,Healthcare,male,1300
+67,United States,Energy,male,1300
+74,Japan,Media & Entertainment,female,1300
+72,Japan,Media & Entertainment,male,1300
+45,Canada,Finance & Investments,male,1300
+87,United States,Real Estate,male,1300
+45,Italy,Construction & Engineering,female,1300
+65,United States,Finance & Investments,male,1300
+59,China,Finance & Investments,male,1300
+36,Finland,Manufacturing,male,1300
+70,China,Real Estate,male,1300
+57,United States,Finance & Investments,male,1300
+72,United States,Service,male,1300
+61,India,Manufacturing,male,1300
+64,China,Manufacturing,male,1300
+56,China,Manufacturing,male,1300
+62,Sweden,Finance & Investments,male,1300
+101,United States,Finance & Investments,male,1300
+57,Singapore,Technology,male,1300
+60,Poland,Diversified,male,1300
+55,United States,Technology,male,1300
+58,United States,Healthcare,male,1300
+65,United States,Finance & Investments,male,1300
+82,Japan,Technology,male,1300
+69,United States,Technology,male,1300
+70,Czech Republic,Technology,male,1300
+42,United Kingdom,Finance & Investments,male,1300
+60,United States,Fashion & Retail,male,1300
+55,South Korea,Technology,male,1300
+73,United States,Diversified,male,1300
+73,China,Food & Beverage,male,1300
+61,China,Diversified,female,1300
+58,China,Manufacturing,male,1300
+46,China,Manufacturing,male,1300
+71,China,Healthcare,male,1300
+68,Brazil,Food & Beverage,male,1300
+45,China,Media & Entertainment,male,1300
+58,China,Healthcare,male,1300
+66,Brazil,Food & Beverage,male,1300
+61,Egypt,Diversified,male,1300
+81,United States,Real Estate,male,1300
+57,France,Healthcare,male,1300
+63,Germany,Finance & Investments,male,1300
+58,Switzerland,Logistics,male,1300
+60,United States,Finance & Investments,male,1300
+67,United States,Finance & Investments,male,1300
+59,Vietnam,Food & Beverage,male,1300
+80,Japan,Gambling & Casinos,male,1300
+55,United States,Healthcare,male,1300
+87,United States,Manufacturing,male,1300
+38,China,Fashion & Retail,female,1300
+67,India,Real Estate,male,1300
+72,India,Logistics,male,1300
+65,India,Healthcare,male,1300
+55,India,Healthcare,male,1300
+75,Spain,Fashion & Retail,male,1300
+49,Russia,Diversified,male,1300
+60,United States,Manufacturing,male,1300
+77,Turkey,Diversified,female,1300
+77,Japan,Food & Beverage,male,1300
+81,Japan,Gambling & Casinos,male,1300
+66,United States,Technology,male,1300
+70,India,Healthcare,male,1300
+70,Russia,Diversified,male,1300
+50,Australia,Food & Beverage,male,1300
+56,China,Manufacturing,male,1300
+54,United States,Sports,male,1300
+59,United States,Sports,female,1300
+63,United States,Sports,female,1300
+64,Russia,Metals & Mining,male,1300
+69,Russia,Energy,male,1300
+66,Germany,Food & Beverage,male,1300
+44,Germany,Food & Beverage,male,1300
+77,Australia,Real Estate,male,1300
+89,Thailand,Healthcare,male,1300
+63,China,Fashion & Retail,male,1300
+54,China,Service,male,1300
+55,China,Manufacturing,male,1300
+47,China,Technology,male,1300
+83,Cayman Islands,Fashion & Retail,male,1300
+50,China,Manufacturing,female,1300
+74,China,Diversified,male,1300
+57,China,Healthcare,male,1300
+60,China,Technology,male,1300
+53,China,Technology,female,1300
+54,China,Manufacturing,male,1300
+52,China,Service,male,1300
+56,Hong Kong,Service,female,1300
+49,Ukraine,Metals & Mining,male,1300
+52,India,Finance & Investments,male,1200
+63,Qatar,Finance & Investments,male,1200
+70,Brazil,Diversified,male,1200
+60,Switzerland,Metals & Mining,male,1200
+50,United States,Finance & Investments,male,1200
+41,United States,Technology,male,1200
+66,Turkey,Healthcare,male,1200
+55,Israel,Real Estate,female,1200
+57,Canada,Real Estate,female,1200
+62,Canada,Real Estate,female,1200
+59,China,Energy,male,1200
+86,United States,Finance & Investments,male,1200
+46,Germany,Healthcare,male,1200
+36,Germany,Healthcare,female,1200
+39,Germany,Healthcare,female,1200
+78,Malaysia,Real Estate,male,1200
+63,China,Food & Beverage,male,1200
+54,China,Healthcare,male,1200
+54,South Korea,Fashion & Retail,male,1200
+82,United States,Service,male,1200
+69,Italy,Fashion & Retail,male,1200
+71,India,Manufacturing,male,1200
+71,United Kingdom,Media & Entertainment,male,1200
+52,China,Fashion & Retail,male,1200
+85,Turkey,Fashion & Retail,male,1200
+60,Germany,Media & Entertainment,male,1200
+84,United States,Manufacturing,male,1200
+65,Brazil,Diversified,male,1200
+70,Brazil,Diversified,male,1200
+56,China,Manufacturing,male,1200
+66,Brazil,Manufacturing,male,1200
+51,Hungary,Manufacturing,male,1200
+30,United Kingdom,Fashion & Retail,male,1200
+65,United States,Fashion & Retail,male,1200
+49,Israel,Metals & Mining,male,1200
+56,India,Manufacturing,male,1200
+63,United States,Finance & Investments,male,1200
+72,India,Manufacturing,female,1200
+67,Australia,Technology,male,1200
+42,United Kingdom,Construction & Engineering,male,1200
+75,United States,Fashion & Retail,male,1200
+73,Australia,Finance & Investments,male,1200
+43,United States,Technology,male,1200
+46,Hong Kong,Gambling & Casinos,male,1200
+58,China,Fashion & Retail,male,1200
+68,Australia,Technology,male,1200
+76,United Kingdom,Telecom,male,1200
+66,Taiwan,Food & Beverage,female,1200
+55,United States,Finance & Investments,male,1200
+42,United States,Fashion & Retail,female,1200
+57,China,Manufacturing,male,1200
+56,China,Healthcare,male,1200
+55,Russia,Real Estate,male,1200
+86,India,Automotive,male,1200
+63,Canada,Media & Entertainment,male,1200
+45,South Korea,Technology,male,1200
+53,China,Manufacturing,male,1200
+59,China,Healthcare,male,1200
+43,China,Healthcare,male,1200
+59,China,Manufacturing,male,1200
+59,China,Manufacturing,male,1200
+60,Hong Kong,Energy,male,1200
+68,United States,Technology,male,1200
+63,United States,Food & Beverage,male,1200
+73,United States,Food & Beverage,male,1200
+71,United States,Food & Beverage,female,1200
+68,United States,Food & Beverage,male,1200
+99,India,Diversified,male,1200
+60,China,Manufacturing,male,1200
+60,United States,Construction & Engineering,male,1200
+57,Hungary,Diversified,male,1200
+66,United States,Technology,male,1200
+85,United States,Healthcare,male,1200
+68,Brazil,Diversified,female,1200
+50,United States,Finance & Investments,male,1200
+56,Germany,Food & Beverage,male,1200
+48,United States,Technology,male,1200
+58,Russia,Food & Beverage,male,1200
+82,Brazil,Real Estate,male,1200
+43,Sweden,Media & Entertainment,male,1200
+57,United States,Technology,male,1200
+82,Indonesia,Diversified,male,1200
+90,United States,Healthcare,male,1200
+57,China,Food & Beverage,female,1200
+76,United States,Manufacturing,male,1200
+59,Switzerland,Finance & Investments,male,1200
+59,United States,Finance & Investments,male,1200
+52,India,Real Estate,male,1200
+62,United Kingdom,Finance & Investments,male,1200
+78,United Arab Emirates,Construction & Engineering,male,1200
+81,Canada,Finance & Investments,male,1200
+80,United Kingdom,Fashion & Retail,male,1200
+52,China,Technology,male,1200
+43,United States,Technology,male,1200
+43,Germany,Automotive,male,1200
+40,Germany,Automotive,male,1200
+73,Indonesia,Energy,male,1200
+49,India,Healthcare,male,1200
+52,United Kingdom,Technology,male,1200
+51,Italy,Construction & Engineering,male,1200
+51,Italy,Construction & Engineering,female,1200
+82,United States,Finance & Investments,male,1200
+58,United States,Technology,male,1200
+77,Indonesia,Metals & Mining,male,1200
+61,Belgium,Manufacturing,male,1200
+70,Philippines,Food & Beverage,male,1200
+59,China,Manufacturing,male,1200
+78,Australia,Real Estate,male,1200
+75,Italy,Finance & Investments,female,1200
+60,China,Manufacturing,male,1200
+81,Netherlands,Media & Entertainment,male,1200
+54,Armenia,Finance & Investments,male,1200
+63,Italy,Fashion & Retail,male,1200
+65,Thailand,Real Estate,male,1200
+57,Hong Kong,Finance & Investments,male,1200
+61,Taiwan,Manufacturing,male,1200
+54,China,Manufacturing,male,1200
+87,United States,Diversified,male,1200
+67,Israel,Food & Beverage,female,1200
+41,United States,Finance & Investments,male,1200
+41,United States,Finance & Investments,male,1200
+67,Taiwan,Manufacturing,male,1200
+77,Taiwan,Finance & Investments,male,1200
+52,China,Fashion & Retail,male,1200
+58,China,Manufacturing,male,1200
+60,China,Manufacturing,male,1200
+58,China,Food & Beverage,male,1200
+60,China,Manufacturing,male,1200
+78,China,Service,male,1200
+61,China,Manufacturing,female,1200
+60,Russia,Healthcare,male,1200
+46,China,Fashion & Retail,female,1200
+37,United States,Technology,male,1200
+60,China,Diversified,male,1200
+47,China,Technology,male,1200
+66,China,Manufacturing,female,1200
+56,China,Healthcare,female,1200
+58,China,Manufacturing,male,1200
+63,China,Construction & Engineering,male,1200
+66,India,Fashion & Retail,male,1100
+67,Russia,Energy,male,1100
+51,United States,Finance & Investments,male,1100
+42,United States,Food & Beverage,female,1100
+52,United States,Fashion & Retail,female,1100
+68,United States,Finance & Investments,male,1100
+61,Ukraine,Diversified,male,1100
+56,Switzerland,Real Estate,male,1100
+58,Switzerland,Diversified,male,1100
+28,United States,Technology,male,1100
+72,Germany,Fashion & Retail,male,1100
+61,Indonesia,Technology,female,1100
+80,India,Food & Beverage,male,1100
+60,China,Manufacturing,male,1100
+82,Italy,Food & Beverage,female,1100
+45,Italy,Food & Beverage,female,1100
+40,China,Technology,male,1100
+61,China,Healthcare,male,1100
+55,China,Energy,male,1100
+47,China,Logistics,female,1100
+73,Taiwan,Technology,male,1100
+55,China,Manufacturing,female,1100
+58,China,Food & Beverage,male,1100
+61,United States,Technology,female,1100
+72,China,Manufacturing,male,1100
+87,Israel,Finance & Investments,male,1100
+65,United Kingdom,Finance & Investments,male,1100
+88,Spain,Service,male,1100
+63,Brazil,Manufacturing,male,1100
+53,Brazil,Manufacturing,male,1100
+56,Cyprus,Telecom,male,1100
+79,United States,Fashion & Retail,male,1100
+69,United States,Fashion & Retail,male,1100
+66,Germany,Fashion & Retail,male,1100
+82,United States,Manufacturing,male,1100
+74,China,Healthcare,male,1100
+70,India,Fashion & Retail,male,1100
+60,United States,Finance & Investments,male,1100
+47,Russia,Real Estate,male,1100
+34,United Kingdom,Energy,male,1100
+63,Monaco,Service,male,1100
+57,China,Food & Beverage,male,1100
+78,United States,Technology,male,1100
+52,China,Technology,male,1100
+61,China,Technology,female,1100
+76,Japan,Automotive,male,1100
+74,Japan,Gambling & Casinos,male,1100
+71,Thailand,Finance & Investments,male,1100
+36,India,Finance & Investments,male,1100
+57,United Kingdom,Finance & Investments,male,1100
+53,United Kingdom,Finance & Investments,male,1100
+59,Belgium,Finance & Investments,male,1100
+66,Japan,Service,male,1100
+51,India,Automotive,male,1100
+88,Turkey,Energy,male,1100
+60,China,Healthcare,male,1100
+58,Switzerland,Sports,male,1100
+64,South Korea,Technology,male,1100
+62,Russia,Energy,male,1100
+74,India,Manufacturing,male,1100
+73,India,Healthcare,male,1100
+78,Spain,Gambling & Casinos,male,1100
+82,South Korea,Construction & Engineering,male,1100
+62,United States,Finance & Investments,female,1100
+87,United States,Finance & Investments,female,1100
+61,United States,Finance & Investments,male,1100
+47,China,Healthcare,male,1100
+49,China,Healthcare,male,1100
+68,United States,Manufacturing,male,1100
+52,China,Telecom,male,1100
+60,China,Fashion & Retail,male,1100
+46,Japan,Technology,male,1100
+68,India,Automotive,male,1100
+68,India,Automotive,female,1100
+70,India,Automotive,male,1100
+56,Russia,Energy,male,1100
+81,Singapore,Automotive,male,1100
+54,Romania,Fashion & Retail,male,1100
+69,Italy,Diversified,male,1100
+50,United States,Fashion & Retail,male,1100
+62,India,Healthcare,male,1100
+60,China,Healthcare,male,1100
+58,China,Healthcare,male,1100
+76,Spain,Service,female,1100
+50,United States,Finance & Investments,male,1100
+42,United States,Technology,male,1100
+53,India,Finance & Investments,male,1100
+58,United States,Energy,male,1100
+67,United Kingdom,Finance & Investments,male,1100
+79,United States,Finance & Investments,male,1100
+41,United States,Food & Beverage,male,1100
+73,Australia,Manufacturing,male,1100
+49,China,Technology,male,1100
+59,China,Manufacturing,male,1100
+61,United States,Technology,male,1100
+45,Singapore,Media & Entertainment,male,1100
+52,Malaysia,Fashion & Retail,male,1100
+77,China,Automotive,male,1100
+51,Thailand,Manufacturing,male,1100
+76,Taiwan,Food & Beverage,male,1100
+58,China,Manufacturing,male,1100
+59,Israel,Technology,male,1100
+71,Germany,Manufacturing,male,1100
+82,China,Food & Beverage,male,1100
+35,China,Diversified,male,1100
+46,Sweden,Media & Entertainment,male,1100
+73,Hong Kong,Manufacturing,male,1100
+47,United States,Sports,male,1100
+81,Germany,Fashion & Retail,male,1100
+53,China,Telecom,male,1100
+82,Taiwan,Manufacturing,male,1100
+54,China,Food & Beverage,male,1100
+68,China,Healthcare,male,1100
+61,China,Healthcare,male,1100
+72,China,Telecom,male,1100
+83,Singapore,Manufacturing,male,1100
+68,China,Technology,female,1100
+53,China,Food & Beverage,male,1100
+51,China,Media & Entertainment,male,1100
+40,China,Metals & Mining,male,1100
+58,China,Construction & Engineering,male,1100
+51,China,Fashion & Retail,male,1100
+48,China,Food & Beverage,male,1100
+50,China,Technology,male,1100
+49,China,Manufacturing,male,1100
+57,Hong Kong,Manufacturing,female,1100
+68,India,Food & Beverage,male,1000
+44,United Kingdom,Finance & Investments,male,1000
+76,Japan,Fashion & Retail,male,1000
+44,Germany,Healthcare,female,1000
+43,Germany,Healthcare,female,1000
+40,Germany,Healthcare,male,1000
+33,Germany,Healthcare,male,1000
+98,Peru,Diversified,female,1000
+76,United States,Media & Entertainment,male,1000
+70,Japan,Gambling & Casinos,male,1000
+75,France,Finance & Investments,male,1000
+64,China,Manufacturing,male,1000
+45,China,Media & Entertainment,male,1000
+59,China,Manufacturing,male,1000
+49,United States,Technology,male,1000
+55,China,Energy,male,1000
+65,Hong Kong,Food & Beverage,male,1000
+72,India,Manufacturing,male,1000
+57,Monaco,Real Estate,male,1000
+64,Hong Kong,Finance & Investments,female,1000
+67,Turkey,Diversified,male,1000
+56,United States,Technology,male,1000
+63,Monaco,Real Estate,male,1000
+50,China,Technology,male,1000
+58,China,Healthcare,female,1000
+68,Denmark,Healthcare,female,1000
+66,United States,Fashion & Retail,male,1000
+56,China,Manufacturing,male,1000
+60,China,Real Estate,male,1000
+79,Sweden,Finance & Investments,male,1000
+52,Monaco,Service,female,1000
+56,Monaco,Service,male,1000
+55,China,Manufacturing,female,1000
+66,China,Manufacturing,male,1000
+79,Indonesia,Energy,female,1000
+46,China,Technology,male,1000
+70,South Korea,Fashion & Retail,male,1000
+59,China,Healthcare,male,1000
+45,Italy,Technology,male,1000
+68,Germany,Finance & Investments,female,1000
+70,India,Manufacturing,male,1000
+38,United States,Sports,male,1000
+56,Norway,Fashion & Retail,male,1000
+93,Israel,Technology,male,1000
+75,India,Manufacturing,male,1000
+53,Brazil,Finance & Investments,male,1000
+79,United States,Sports,male,1000
+53,United States,Technology,male,1000
+68,Singapore,Energy,male,1000
+48,South Korea,Fashion & Retail,male,1000
+60,Ukraine,Diversified,male,1000
+55,China,Real Estate,male,1000
+74,South Korea,Manufacturing,male,1000
+78,Singapore,Real Estate,male,1000
+82,United States,Real Estate,male,1000
+57,Russia,Finance & Investments,male,1000
+73,South Africa,Finance & Investments,male,1000
+45,China,Technology,male,1000
+69,China,Fashion & Retail,male,1000
+74,Singapore,Healthcare,male,1000
+59,China,Technology,male,1000
+52,China,Manufacturing,female,1000
+36,United States,Technology,male,1000
+56,Germany,Manufacturing,female,1000
+51,Russia,Construction & Engineering,male,1000
+78,Italy,Manufacturing,male,1000
+53,United States,Media & Entertainment,male,1000
+74,Bermuda,Food & Beverage,female,1000
+76,United States,Energy,male,1000
+69,Indonesia,Media & Entertainment,male,1000
+68,United States,Technology,female,1000
+73,United States,Technology,male,1000
+60,Norway,Service,male,1000
+53,Russia,Diversified,male,1000
+51,Russia,Finance & Investments,male,1000
+70,Indonesia,Manufacturing,male,1000
+59,Indonesia,Manufacturing,male,1000
+77,United States,Food & Beverage,male,1000
+82,Japan,Media & Entertainment,male,1000
+75,Turkey,Telecom,male,1000
+70,Japan,Technology,male,1000
+54,China,Healthcare,male,1000
+53,China,Automotive,male,1000
+72,Canada,Finance & Investments,male,1000
+60,China,Food & Beverage,male,1000
+51,Monaco,Sports,male,1000
+54,China,Fashion & Retail,male,1000
+59,China,Manufacturing,male,1000
+53,China,Manufacturing,male,1000
+63,China,Healthcare,male,1000
+51,China,Healthcare,male,1000
+80,United States,Food & Beverage,male,1000
+60,China,Manufacturing,male,1000
+71,China,Real Estate,male,1000
+66,Philippines,Diversified,male,1000
